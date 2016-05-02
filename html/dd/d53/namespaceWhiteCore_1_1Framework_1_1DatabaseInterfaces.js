@@ -1,0 +1,25 @@
+var namespaceWhiteCore_1_1Framework_1_1DatabaseInterfaces =
+[
+    [ "ChatSession", "d1/d62/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1ChatSession.html", "d1/d62/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1ChatSession" ],
+    [ "ChatSessionMember", "db/df0/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1ChatSessionMember.html", "db/df0/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1ChatSessionMember" ],
+    [ "Email", "db/d99/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1Email.html", "db/d99/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1Email" ],
+    [ "GroupInviteInfo", "db/de7/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1GroupInviteInfo.html", "db/de7/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1GroupInviteInfo" ],
+    [ "GroupNoticeInfo", "d1/d57/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1GroupNoticeInfo.html", "d1/d57/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1GroupNoticeInfo" ],
+    [ "GroupProposalInfo", "d1/d48/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1GroupProposalInfo.html", "d1/d48/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1GroupProposalInfo" ],
+    [ "IAbuseReportsConnector", "d7/dde/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IAbuseReportsConnector.html", "d7/dde/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IAbuseReportsConnector" ],
+    [ "IAgentConnector", "d2/d90/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IAgentConnector.html", "d2/d90/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IAgentConnector" ],
+    [ "IAssetConnector", "d9/d59/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IAssetConnector.html", "d9/d59/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IAssetConnector" ],
+    [ "IDirectoryServiceConnector", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector" ],
+    [ "IEmailConnector", "d7/dbe/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IEmailConnector.html", "d7/dbe/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IEmailConnector" ],
+    [ "IEstateConnector", "de/d34/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IEstateConnector.html", "de/d34/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IEstateConnector" ],
+    [ "IGenericsConnector", "d1/d74/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGenericsConnector.html", "d1/d74/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGenericsConnector" ],
+    [ "IGroupsServiceConnector", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector" ],
+    [ "IMuteListConnector", "d1/d3a/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IMuteListConnector.html", "d1/d3a/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IMuteListConnector" ],
+    [ "IOfflineMessagesConnector", "d1/dd4/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IOfflineMessagesConnector.html", "d1/dd4/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IOfflineMessagesConnector" ],
+    [ "IProfileConnector", "d5/d5f/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IProfileConnector.html", "d5/d5f/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IProfileConnector" ],
+    [ "IRegionConnector", "d6/d5e/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IRegionConnector.html", "d6/d5e/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IRegionConnector" ],
+    [ "IRegionInfoConnector", "d9/d61/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IRegionInfoConnector.html", "d9/d61/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IRegionInfoConnector" ],
+    [ "IRemoteProfileConnector", "db/d69/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IRemoteProfileConnector.html", "db/d69/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IRemoteProfileConnector" ],
+    [ "IUserStatsDataConnector", "d8/d0f/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IUserStatsDataConnector.html", "d8/d0f/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IUserStatsDataConnector" ],
+    [ "OSDWrapper", "df/d6e/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1OSDWrapper.html", "df/d6e/classWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1OSDWrapper" ]
+];

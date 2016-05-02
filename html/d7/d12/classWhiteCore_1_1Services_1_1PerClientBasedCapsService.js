@@ -1,0 +1,26 @@
+var classWhiteCore_1_1Services_1_1PerClientBasedCapsService =
+[
+    [ "AddCapsServiceForRegion", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#aedce91091f29f7f7abe2c5409051f5e2", null ],
+    [ "Close", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a0f309ca79ce33c96b5b11624346252ef", null ],
+    [ "GetCapsService", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#ac0a07aaf3a7b187c641ce99b0e0224cc", null ],
+    [ "GetCapsServices", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a9fc8963136c0bf3c090bb2b9c8b671b7", null ],
+    [ "GetOrCreateCapsService", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#abbb86d2f1d5f5dae7bedca7e648cbb18", null ],
+    [ "GetRootCapsService", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#af6db57583dd739745c0561ae1acec7bd", null ],
+    [ "Initialise", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#af30bb956703fad7a5f8bd23aae3fe5a1", null ],
+    [ "RemoveCAPS", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a94425b44d93ac84e4606d50947cbec60", null ],
+    [ "m_account", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a1a6d429edbc8d907d19e1f878261d81a", null ],
+    [ "m_agentID", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a0fc14778f383f702ca6e2dc6c6f1075f", null ],
+    [ "m_callbackHasCome", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a8ec4fee7e62a5bc99f6f61a526148b11", null ],
+    [ "m_CapsService", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a7709b2b529218e530e801d144381fe14", null ],
+    [ "m_inTeleport", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a290b9666c2ea83eeb8eda334b872709c", null ],
+    [ "m_RegionCapsServices", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a2fe32cd0f01b514e5d5f0e5109e21eef", null ],
+    [ "m_requestToCancelTeleport", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#ae3534cb569719d7f83c69cf4dea868d7", null ],
+    [ "AccountInfo", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#abc55fabb1f3203ee73fee3b4e5a6c926", null ],
+    [ "AgentID", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a7756c64e3315456051712942650f24d0", null ],
+    [ "CallbackHasCome", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a8d5e49fcaa157a027ed779145a27a4b7", null ],
+    [ "HostUri", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a2f108a15fde833f0b0dcdafa116227df", null ],
+    [ "InTeleport", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#aed6a9a8d22ead08c3e13d231d09d2544", null ],
+    [ "Registry", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a56d437cba276903d10db743be045af69", null ],
+    [ "RequestToCancelTeleport", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#a0ed5ef897be9e5b3c40e028bed8a6621", null ],
+    [ "Server", "d7/d12/classWhiteCore_1_1Services_1_1PerClientBasedCapsService.html#aeaeef2db05f80820d70226d88b6fabd5", null ]
+];

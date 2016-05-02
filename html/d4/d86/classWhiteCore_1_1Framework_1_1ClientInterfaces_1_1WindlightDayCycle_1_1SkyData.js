@@ -1,0 +1,27 @@
+var classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData =
+[
+    [ "FromOSD", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#ac3437f6c947b7c0784868e67fc27136e", null ],
+    [ "ToOSD", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#aa3301089967248d5d2b0530bedf90d8e", null ],
+    [ "ambient", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a5b0d994fd4a8da7d4f622e6838c9f652", null ],
+    [ "blue_density", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a06d12d458ae439ab42580c4ed6178144", null ],
+    [ "blue_horizon", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a6f9ea174bbdf05e4122567d6e3523402", null ],
+    [ "cloud_color", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a25cb99242bb9a1032d228d9c93780c35", null ],
+    [ "cloud_pos_density1", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a17025272574943477e050883bc940d79", null ],
+    [ "cloud_pos_density2", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#adffc824be93b489f334735ff1acab7a8", null ],
+    [ "cloud_scale", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a928b029071a1f92eee3c4b14ca1d20d8", null ],
+    [ "cloud_scroll_rate", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#abf1bca6f1279621dddcff14dec9eae77", null ],
+    [ "cloud_shadow", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#af554bcd27820fae3b1f1123204ca4650", null ],
+    [ "density_multiplier", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a16f485e610ddb4d9542e6ef826745e5f", null ],
+    [ "distance_multiplier", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#aade89e5fabc1d4f148ed2421904aa2b6", null ],
+    [ "enable_cloud_scroll", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a59704ac39b48e7b5d17f26fec97db3cc", null ],
+    [ "gamma", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#aebde3b0e796b96770e618e88f21c2244", null ],
+    [ "glow", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#af9fc3818ccf22bd047c1e12f3038b1ef", null ],
+    [ "haze_density", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a49c45c062d63db7c1408ac92fb759ff6", null ],
+    [ "haze_horizon", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a2deb7ff99d02c919a3aa23939f6418b9", null ],
+    [ "lightnorm", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a378b173b70b73fdfe9c1521c4c8a4bbb", null ],
+    [ "max_y", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#adb58dc5614355759603307de2a969578", null ],
+    [ "preset_name", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a8c0b6fca2ef7617369bc04d7ac190110", null ],
+    [ "preset_num", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a43170435f0eb62c73190c2ab9fa98d8d", null ],
+    [ "star_brightness", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a2f9cea131e4ec5fcc6c9dcfa65d13305", null ],
+    [ "sunlight_color", "d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html#a30b27e85981486d84e116217001f48a2", null ]
+];

@@ -1,0 +1,28 @@
+var interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService =
+[
+    [ "Configure", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a51cdd45b6b9ab771bad86c4ea8125278", null ],
+    [ "DeregisterRegion", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a36b5a55779b7e97e548395ed1e870c47", null ],
+    [ "FinishedStartup", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a394e52f56da41e1e3bd48e7da881b56d", null ],
+    [ "GetDefaultRegions", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#abfe8be0bef8abf943d2a8b776e794466", null ],
+    [ "GetFallbackRegions", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#aac089b2b3d99646731623c9ac530a28f", null ],
+    [ "GetMapItems", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a882ed4d18a81f76d3659a4c0d10fd02d", null ],
+    [ "GetMaxRegionSize", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#ac709a532af39cdaa1b73609796b600c0", null ],
+    [ "GetNeighbors", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a76437294a3688f74bdd43d1b24cafa9a", null ],
+    [ "GetRegionByName", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a926a4ea573df5360e93c134207815394", null ],
+    [ "GetRegionByPosition", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a64953e6f0b18d0c9d8149315eafa99d2", null ],
+    [ "GetRegionByUUID", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a72bf0b0eba94f49cfc9fb97637a2bf03", null ],
+    [ "GetRegionFlags", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#aca03115aea57ac8e17e2f0e230edf69b", null ],
+    [ "GetRegionRange", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a212942555dae10122c153826ed42f2e5", null ],
+    [ "GetRegionRange", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a5e5331e002507c0a1e937a4ac5d9086f", null ],
+    [ "GetRegionsByName", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a86199ba9069f4aa8850882eab93f69ee", null ],
+    [ "GetRegionsByNameCount", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a5d51a5549340177932518d5b540b779c", null ],
+    [ "GetRegionViewSize", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#ab9d348667b7afd5c064252035d396d69", null ],
+    [ "GetSafeRegions", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#ab967c1641049faab37695677ead52116", null ],
+    [ "RegisterRegion", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a8f0380a41c6c5cca60a22a22a9017bfb", null ],
+    [ "SetRegionSafe", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#af5dd19d49d02866655a4287763fd0df2", null ],
+    [ "SetRegionUnsafe", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a807733df1dd491c118c1174496182280", null ],
+    [ "Start", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a749ae7feed83f1ea3cf1d6a712b7369d", null ],
+    [ "UpdateMap", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#aca886648497070de24d03205c233d719", null ],
+    [ "VerifyRegionSessionID", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a9aeb58b294bad5d7fe3970e71bc73126", null ],
+    [ "InnerService", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a03a74a64abc125a01ef8079e81893ca2", null ]
+];

@@ -1,0 +1,26 @@
+var classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion =
+[
+    [ "Quaternion", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a612a24a4bc5363976d4fbf973c7a30d8", null ],
+    [ "Quaternion", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a65984765b231f2a40fa223cc99583e1c", null ],
+    [ "Quaternion", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a48fe1f1c5aafc50bd9a7a525b5e394cd", null ],
+    [ "angle", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#adc3235923dd6219ced9c7b91f27bed24", null ],
+    [ "axis", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a58a3adbba650a04254a9c715006c1fcc", null ],
+    [ "dot", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a4ee29bd5c7f4ec8e93be85baf0c64833", null ],
+    [ "getmatrix", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a1ba663c6004538a263027bea3780cb30", null ],
+    [ "Interpolate", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a1927fbf31ebca1e81af4c1771f4c2e88", null ],
+    [ "Inverse", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a46c73e6b8bdd5882db427d292f29969c", null ],
+    [ "normalize", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#adae5650577b73ad76a6416844e3b8548", null ],
+    [ "operator float3x3", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#ad2c49a2d60d1aa61e4e0d99d85be2b13", null ],
+    [ "operator*", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a10452b124ee76bb34bf12a9387770b11", null ],
+    [ "operator*", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a738ed3b7301b7de0a6677fc61ef75bb4", null ],
+    [ "operator*", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#ad079b4495724de6706829f1b0ca11683", null ],
+    [ "operator+", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a05bac0a27f98235d2a0b80320a8aeddd", null ],
+    [ "Pitch", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#ac55f0074981350efc4332f97c4e5e6e3", null ],
+    [ "Roll", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#ab9b26fe848b9839c12bebabb17d422aa", null ],
+    [ "slerp", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#ac249e0620d460888a2f151c934a048ae", null ],
+    [ "xdir", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a66398d752edea9c8099a81410fe33b6b", null ],
+    [ "Yaw", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#ae0ffeea13d7c9229a3c56a69ac139d3e", null ],
+    [ "YawPitchRoll", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#aad3c7f047391d2aabc73e5d8adff02e0", null ],
+    [ "ydir", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#a8cf0d609fdf218a9602ec26108aee492", null ],
+    [ "zdir", "d8/d42/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1Quaternion.html#ac17ae56c4f365581a4c6ae96ee3d0117", null ]
+];

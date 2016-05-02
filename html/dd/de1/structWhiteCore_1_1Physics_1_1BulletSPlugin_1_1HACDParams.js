@@ -1,0 +1,25 @@
+var structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams =
+[
+    [ "addExtraDistPoints", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a429f56ec7ccd8189a8e4aeda1fdc9877", null ],
+    [ "addFacesPoints", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a0a75815507c80d158bb6c67ae5d106dc", null ],
+    [ "addNeighboursDistPoints", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#ac4a4df8cb717621905f25ece25138f63", null ],
+    [ "compacityWeight", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a074e187cdd67355b1bb5f93da625bdde", null ],
+    [ "concavity", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#ae8cfe2431b967238c98c2d968bfbfa86", null ],
+    [ "maxVerticesPerHull", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a3e8e361d86d3919d9ec442a0b39f2011", null ],
+    [ "minClusters", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#aa74e034a7c4c613cc72ed1874529a0e9", null ],
+    [ "shouldAdjustCollisionMargin", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#ae512516d85b55c44e77f2caddecc34b1", null ],
+    [ "vHACDalpha", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a908e6e5cb85f69ed595a828db6ce65e7", null ],
+    [ "vHACDbeta", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a249348ddfb6612a42e9c9943e3b81474", null ],
+    [ "vHACDconcavity", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a12601fca07aadb079fdcea3872e3aa15", null ],
+    [ "vHACDconvexHullDownsampling", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a8c8350a3e572f32e8f3492581e20fd86", null ],
+    [ "vHACDdepth", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a8e382d486d67d0f59e8d3aca597cdd1a", null ],
+    [ "vHACDgamma", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a86f1c95db5090790ae07e179ef2b7e04", null ],
+    [ "vHACDmaxNumVerticesPerCH", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#aa60d2cdf8a7f5ad93ffc7c1c1093d39a", null ],
+    [ "vHACDminVolumePerCH", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a27a1d623464174a1127ecc58fa2fef51", null ],
+    [ "vHACDmode", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#ae9277136e42657ca9c6fe7edc2e747d9", null ],
+    [ "vHACDpca", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#ab8f7a21354552dad31c3058e1292e509", null ],
+    [ "vHACDplaneDownsampling", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#acfc73e99b3df954e6097a55183a31b79", null ],
+    [ "vHACDresolution", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a44d9717a9743b2dfd4cbe95e1ee2128d", null ],
+    [ "volumeWeight", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a6072caba45e9f74397f8fde61301612b", null ],
+    [ "whichHACD", "dd/de1/structWhiteCore_1_1Physics_1_1BulletSPlugin_1_1HACDParams.html#a72f7a4d0c967f1b2d471b509b6ece969", null ]
+];

@@ -1,0 +1,28 @@
+var classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs =
+[
+    [ "AuthBuyerID", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a3859a3bd33786a8aca3888ba0deba56e", null ],
+    [ "Category", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a84d88f336ccb35e223029bf24c4c8783", null ],
+    [ "Desc", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a9060ea4197fd1c26ec308a3f74740b85", null ],
+    [ "GroupID", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a68b86cee0824382137bba2c75e703ad4", null ],
+    [ "LandingType", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a97bf7f6c9caeecd5a6f30df5815dd3b6", null ],
+    [ "MediaAutoScale", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ae3eb3c65b57c7bf77a335f6b343f46b8", null ],
+    [ "MediaDescription", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a91a890ea325d9a12272ccb71843ecd56", null ],
+    [ "MediaHeight", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#aa7c496687896cc5cf82bfce2999be8fc", null ],
+    [ "MediaID", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a4617eaef76a4271480b706bf109c1f94", null ],
+    [ "MediaLoop", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ae3f8e6971fd57187bb8fe1813b3d4323", null ],
+    [ "MediaType", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#aa218ff4546ea597154ae4dd08e0591e3", null ],
+    [ "MediaURL", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a74d7d863cac78770f645d9cf4a70a2af", null ],
+    [ "MediaWidth", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a98776b7626a676a8e04912654744c302", null ],
+    [ "MusicURL", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#af6aed9cdc6b5d6f90ed62c97403215d8", null ],
+    [ "Name", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ac2cec97963ea52bfe70f39ddecefa4d3", null ],
+    [ "ObscureMedia", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ad144cebe6be4775743c2d66dee7a54a8", null ],
+    [ "ObscureMusic", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a3a9e3cda8b6a0b1874f56200d684d09e", null ],
+    [ "ParcelFlags", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a997956b20949f0c3dc49654aee8f0038", null ],
+    [ "PassHours", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a67ebe746fcd0489c670afe3e2eafd8b8", null ],
+    [ "PassPrice", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#af9db0b9c015c39049cb4dd9e436e2623", null ],
+    [ "Privacy", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ab5f795f62fd918ddf1e16027a6fede9c", null ],
+    [ "SalePrice", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ac727a4d685b16f74a4a2a4f33d8991ee", null ],
+    [ "SnapshotID", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a052befe012bcb6efb2f7fb7aba01bb58", null ],
+    [ "UserLocation", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#aacf05bd143e6b52c9ba164d7af3ef8fd", null ],
+    [ "UserLookAt", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ad777375ac2aa7c6701e07dd74dd62214", null ]
+];

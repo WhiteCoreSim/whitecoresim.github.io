@@ -1,0 +1,4 @@
+var namespaceWhiteCore_1_1Services_1_1GenericServices_1_1SystemAccountService =
+[
+    [ "SystemAccountService", "d5/dad/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemAccountService_1_1SystemAccountService.html", "d5/dad/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemAccountService_1_1SystemAccountService" ]
+];

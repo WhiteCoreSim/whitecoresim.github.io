@@ -1,0 +1,27 @@
+var classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs =
+[
+    [ "billableFactor", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a63adfbb7d7da01d0e86e39e4fd8c0d77", null ],
+    [ "isEstateManager", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#ab302a1cdf7b54cb5b3cb244e2d0206b4", null ],
+    [ "regionFlags", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#ac0c9cb0930665c2ff1023645405a2b10", null ],
+    [ "regionName", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a9bad913d41b64ca4cc4bbff14b139d38", null ],
+    [ "RegionType", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#ae50eb637c84a622a701d4e31d7df4cbc", null ],
+    [ "simAccess", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#acc4556946cd797fce1e87e0ddecd765a", null ],
+    [ "SimOwner", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a34eb88ef589274bb7e0a06b3ca0962a0", null ],
+    [ "terrainBase0", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#ac320e9084451b5bf066edbd5f17565a6", null ],
+    [ "terrainBase1", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a6764279335bfd2a5c3d4d149343a73eb", null ],
+    [ "terrainBase2", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a93130f6f8e722bd36227b75d633e04d9", null ],
+    [ "terrainBase3", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#ae677462d90ad32f88698b86a94e59c31", null ],
+    [ "terrainDetail0", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#aeed9c2ec5c94b2d824c6fa864170b4a6", null ],
+    [ "terrainDetail1", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a0ad1115065b0b53b75d092c84ad73c19", null ],
+    [ "terrainDetail2", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a987d826d0b131e4fb5d4e0173d02f42d", null ],
+    [ "terrainDetail3", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#abe61732cdae09b7a6d7d7c8f1e9488da", null ],
+    [ "terrainHeightRange0", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a1230713de6f6b8f7d758144890ff3e2f", null ],
+    [ "terrainHeightRange1", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a3b3b634fcbe96e0aef3ff006d98d5f79", null ],
+    [ "terrainHeightRange2", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a43813bbd8cfa08e1328e748f97c688c9", null ],
+    [ "terrainHeightRange3", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#ab921aebec1326747a6ce71eae9c09feb", null ],
+    [ "terrainStartHeight0", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a0448a5309a4de025d7c0ed4e4ed2e242", null ],
+    [ "terrainStartHeight1", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a4bde035ab3f0e06a239018d44dcafdb7", null ],
+    [ "terrainStartHeight2", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#acdf88c5b66ca6a8089c5cc7d2179f777", null ],
+    [ "terrainStartHeight3", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a94b6747f89256379d59c6597fd962c15", null ],
+    [ "waterHeight", "d6/d66/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1RegionHandshakeArgs.html#a24413b4b9a75b2c52f33af8f1075197d", null ]
+];

@@ -1,0 +1,26 @@
+var namespaceWhiteCore_1_1Services_1_1DataService =
+[
+    [ "Connectors", "db/d40/namespaceWhiteCore_1_1Services_1_1DataService_1_1Connectors.html", "db/d40/namespaceWhiteCore_1_1Services_1_1DataService_1_1Connectors" ],
+    [ "GenericUtils", "d7/d8c/classWhiteCore_1_1Services_1_1DataService_1_1GenericUtils.html", "d7/d8c/classWhiteCore_1_1Services_1_1DataService_1_1GenericUtils" ],
+    [ "LocalAbuseReportsConnector", "db/d22/classWhiteCore_1_1Services_1_1DataService_1_1LocalAbuseReportsConnector.html", "db/d22/classWhiteCore_1_1Services_1_1DataService_1_1LocalAbuseReportsConnector" ],
+    [ "LocalAgentConnector", "db/d19/classWhiteCore_1_1Services_1_1DataService_1_1LocalAgentConnector.html", "db/d19/classWhiteCore_1_1Services_1_1DataService_1_1LocalAgentConnector" ],
+    [ "LocalAssetConnector", "d0/dc7/classWhiteCore_1_1Services_1_1DataService_1_1LocalAssetConnector.html", "d0/dc7/classWhiteCore_1_1Services_1_1DataService_1_1LocalAssetConnector" ],
+    [ "LocalAuthConnector", "d0/d35/classWhiteCore_1_1Services_1_1DataService_1_1LocalAuthConnector.html", "d0/d35/classWhiteCore_1_1Services_1_1DataService_1_1LocalAuthConnector" ],
+    [ "LocalAvatarConnector", "d0/dbf/classWhiteCore_1_1Services_1_1DataService_1_1LocalAvatarConnector.html", "d0/dbf/classWhiteCore_1_1Services_1_1DataService_1_1LocalAvatarConnector" ],
+    [ "LocalDataService", "d3/d26/classWhiteCore_1_1Services_1_1DataService_1_1LocalDataService.html", "d3/d26/classWhiteCore_1_1Services_1_1DataService_1_1LocalDataService" ],
+    [ "LocalDirectoryServiceConnector", "d8/d76/classWhiteCore_1_1Services_1_1DataService_1_1LocalDirectoryServiceConnector.html", "d8/d76/classWhiteCore_1_1Services_1_1DataService_1_1LocalDirectoryServiceConnector" ],
+    [ "LocalEmailMessagesConnector", "da/df9/classWhiteCore_1_1Services_1_1DataService_1_1LocalEmailMessagesConnector.html", "da/df9/classWhiteCore_1_1Services_1_1DataService_1_1LocalEmailMessagesConnector" ],
+    [ "LocalEstateConnector", "d8/d0c/classWhiteCore_1_1Services_1_1DataService_1_1LocalEstateConnector.html", "d8/d0c/classWhiteCore_1_1Services_1_1DataService_1_1LocalEstateConnector" ],
+    [ "LocalFriendsConnector", "d7/d98/classWhiteCore_1_1Services_1_1DataService_1_1LocalFriendsConnector.html", "d7/d98/classWhiteCore_1_1Services_1_1DataService_1_1LocalFriendsConnector" ],
+    [ "LocalGenericsConnector", "d8/d3e/classWhiteCore_1_1Services_1_1DataService_1_1LocalGenericsConnector.html", "d8/d3e/classWhiteCore_1_1Services_1_1DataService_1_1LocalGenericsConnector" ],
+    [ "LocalGridConnector", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector" ],
+    [ "LocalGroupsServiceConnector", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector" ],
+    [ "LocalInventoryConnector", "de/d16/classWhiteCore_1_1Services_1_1DataService_1_1LocalInventoryConnector.html", "de/d16/classWhiteCore_1_1Services_1_1DataService_1_1LocalInventoryConnector" ],
+    [ "LocalMuteListConnector", "dc/d65/classWhiteCore_1_1Services_1_1DataService_1_1LocalMuteListConnector.html", "dc/d65/classWhiteCore_1_1Services_1_1DataService_1_1LocalMuteListConnector" ],
+    [ "LocalOfflineMessagesConnector", "d9/dd0/classWhiteCore_1_1Services_1_1DataService_1_1LocalOfflineMessagesConnector.html", "d9/dd0/classWhiteCore_1_1Services_1_1DataService_1_1LocalOfflineMessagesConnector" ],
+    [ "LocalProfileConnector", "df/d57/classWhiteCore_1_1Services_1_1DataService_1_1LocalProfileConnector.html", "df/d57/classWhiteCore_1_1Services_1_1DataService_1_1LocalProfileConnector" ],
+    [ "LocalRegionConnector", "da/dd6/classWhiteCore_1_1Services_1_1DataService_1_1LocalRegionConnector.html", "da/dd6/classWhiteCore_1_1Services_1_1DataService_1_1LocalRegionConnector" ],
+    [ "LocalUserAccountConnector", "d0/dac/classWhiteCore_1_1Services_1_1DataService_1_1LocalUserAccountConnector.html", "d0/dac/classWhiteCore_1_1Services_1_1DataService_1_1LocalUserAccountConnector" ],
+    [ "LocalUserInfoConnector", "d1/d44/classWhiteCore_1_1Services_1_1DataService_1_1LocalUserInfoConnector.html", "d1/d44/classWhiteCore_1_1Services_1_1DataService_1_1LocalUserInfoConnector" ],
+    [ "LocalUserStatsDataConnector", "d4/d04/classWhiteCore_1_1Services_1_1DataService_1_1LocalUserStatsDataConnector.html", "d4/d04/classWhiteCore_1_1Services_1_1DataService_1_1LocalUserStatsDataConnector" ]
+];

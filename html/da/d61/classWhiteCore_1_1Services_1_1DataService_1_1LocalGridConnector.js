@@ -1,0 +1,28 @@
+var classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector =
+[
+    [ "RegionDataDistanceCompare", "d4/d4a/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector_1_1RegionDataDistanceCompare.html", "d4/d4a/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector_1_1RegionDataDistanceCompare" ],
+    [ "Count", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a55fea3f402cd7885cfd69bc6cef7a4e5", null ],
+    [ "Count", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a581f067144f1315cb59e169f5d325074", null ],
+    [ "Delete", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#ae1ae04bf9e86e1e2d7d615b5c77152d4", null ],
+    [ "DeleteAll", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#aa36fbf1e93568344c7ce6234725b4c32", null ],
+    [ "Dispose", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#ad3ddcaab685cd70b5ab9776ca98a86c9", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a31bc0bc0753314bce2a0c11ec5c7a0f9", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#ae945df6dce2de18ce707ce80da24eb9b", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a1b34268cdb0762895cd1ab5ff4ce080c", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#ac3fca9507f4fe86dee783a6c9ce48d90", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#ac355f992a861367f3af6f23eefb89ecb", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a4767532dd1b875a65e6ee9ffdf305116", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a9e2498e500abf12735ca4289aadcffd0", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a5c0d9ea545bac60727acddfa8f2ea5fe", null ],
+    [ "Get", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#ae87ff5e9586e3ebfdfcd61ba3735ffa9", null ],
+    [ "GetCount", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a044f99a21d4b12cdca1084d0074084ee", null ],
+    [ "GetDefaultRegions", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a65ded7e2d187723b256b6cd20057308d", null ],
+    [ "GetFallbackRegions", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#afeaf9d22209ca2c1ce1b28f25fbcc0bf", null ],
+    [ "GetNeighbours", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a31412646dc76f8e7fd3ec3cd00dacdfd", null ],
+    [ "GetSafeRegions", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#ac0f774fd62edb75f9cf72cfd204057b6", null ],
+    [ "GetZero", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a66c5ea57dc81a0cc5c228c308723b446", null ],
+    [ "Initialize", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#af78552a8c319ea5c0c2c22617ba684c7", null ],
+    [ "ParseQuery", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a7d0717249d08daccf36c2ba47f7d790c", null ],
+    [ "Store", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a6963431c1f0a5cc64a43d46a6b7f1220", null ],
+    [ "Name", "da/d61/classWhiteCore_1_1Services_1_1DataService_1_1LocalGridConnector.html#a197dbf74d32d53761310dce0017e4065", null ]
+];

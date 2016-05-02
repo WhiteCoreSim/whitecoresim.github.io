@@ -1,0 +1,26 @@
+var classWhiteCore_1_1ClientStack_1_1ThrottleRates =
+[
+    [ "ThrottleRates", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a2f41fb2670fe3fd63fe80a2b71baae8e", null ],
+    [ "GetLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#adf23d3b77a005a76ae306b645ee32f25", null ],
+    [ "GetRate", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#ad18b55c250a7c3de119e1330ebe68cc4", null ],
+    [ "Asset", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a7906841ea56c29bd19c4526f43715ece", null ],
+    [ "AssetLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#ad02600f94373bae8fb0974c09e25a8a7", null ],
+    [ "AvatarInfo", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#aaf7b9cba9472431f4aa8ba222795fcd2", null ],
+    [ "AvatarInfoLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a753b03a1ccd86838be55433ee2822557", null ],
+    [ "Cloud", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#adb9ab0e32c412640addc04a41d03ac17", null ],
+    [ "CloudLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#af18629c806f590bfe5339db24c445926", null ],
+    [ "Land", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#aa331120bf3f34668fd84372e1aadc324", null ],
+    [ "LandLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#ac21e3a5f399b2b8c9d1c6d9c647aaf38", null ],
+    [ "Resend", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#aa005fd5b378b34f520f350660d6324ea", null ],
+    [ "ResendLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a314b3faa5c474a4a05941707967a1e08", null ],
+    [ "State", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a8c50a4db85b7634b23659021d1a36c87", null ],
+    [ "StateLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a74a98f43a8b9c469b695206d3692c964", null ],
+    [ "Task", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a4a31ddf3da7e927630788a848d8ecee7", null ],
+    [ "TaskLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#aa1be7281b3dd6ca89ef6df7ca2df3f66", null ],
+    [ "Texture", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#af6383a86dbbe07cef7379fadcc11ef9c", null ],
+    [ "TextureLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a7e927550834dc9e5fd71efe3447afd99", null ],
+    [ "Total", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a512f7e272b5cba0cf71d244d283a96c2", null ],
+    [ "TotalLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#a3dacf4ff1f5b5e2276166c761f5cc9b2", null ],
+    [ "Wind", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#ac962733686c150ea1638ce9f1acc3044", null ],
+    [ "WindLimit", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html#ab334899bf26c6b8844078e1ccfb44367", null ]
+];

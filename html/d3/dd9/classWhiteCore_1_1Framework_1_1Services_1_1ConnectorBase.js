@@ -1,0 +1,28 @@
+var classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase =
+[
+    [ "CheckPassword", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#abd7b7378dd11a7ed81d4381e64b74aef", null ],
+    [ "CreateServerHandler", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a92c6d16cccdad9230ba1674c36e03991", null ],
+    [ "DoRemote", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a9d8561612c1726afe07d64e879c82a68", null ],
+    [ "DoRemoteByURL", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a75c287e6f0fb733cc7ae84daef6fa96b", null ],
+    [ "DoRemoteCallGet", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a2ceb5cda5b4959b0e8d761817e502227", null ],
+    [ "DoRemoteCallPost", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#ace753806704dfb42f1ff707deccd4272", null ],
+    [ "DoRemotePost", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#af60c62a2a687e2d1bab1be2b3469fbe4", null ],
+    [ "DoRemotePostByURL", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#abb8dc3ebbdd59d10ed22e38c9f77771a", null ],
+    [ "Init", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a6049902ab7dfd19cb6550c242e4bb109", null ],
+    [ "SetDoRemoteCalls", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#af7477c054ca4e49dcd3da3f6652b78dd", null ],
+    [ "SetPassword", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a4c5e8953d93073a026cfd56fa7bcd3ea", null ],
+    [ "m_doRemoteCalls", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#ad038483032bfcd27fd6f3c1d12215ec7", null ],
+    [ "m_doRemoteOnly", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a27a8d7a5341f756177ae1b3c805c2c79", null ],
+    [ "m_name", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#ab2cf10d0992543222ca529478ca5083a", null ],
+    [ "m_OSDRequestTryCount", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a077c398c84176a940bea870bcfbb25a6", null ],
+    [ "m_password", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a38a97464a782e3890c819fc8a2c3b395", null ],
+    [ "m_registry", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a5db7edbfbadbd8ab51bfc7331c8b2d02", null ],
+    [ "m_startedServer", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#ae4b1e15a76787ade0b1ea3d42b359b43", null ],
+    [ "Enabled", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a3ad056995ea37b879e884d1237b6a7f5", null ],
+    [ "IsLocalConnector", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a2823e4d24f1cf43b672452a160beb483", null ],
+    [ "m_configService", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#aee6ce2b9fa5efeda9b5e46942b3bd19e", null ],
+    [ "PluginName", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a0a040ec748caad7042dca5ba2703317e", null ],
+    [ "ServerHandlerName", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a119a81790ce86d10d28b99895921541e", null ],
+    [ "ServerHandlerPath", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#a054f9a7788d7f435ec5e619056c07759", null ],
+    [ "ServerHandlerPort", "d3/dd9/classWhiteCore_1_1Framework_1_1Services_1_1ConnectorBase.html#ac7ad6b7a9757a1b375765b2e2bf1a99f", null ]
+];

@@ -1,0 +1,4 @@
+var namespaceWhiteCore_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset =
+[
+    [ "LocalAssetMainConnector", "d3/d12/classWhiteCore_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetMainConnector.html", "d3/d12/classWhiteCore_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetMainConnector" ]
+];
