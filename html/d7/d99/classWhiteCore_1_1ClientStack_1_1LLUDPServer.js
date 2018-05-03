@@ -18,7 +18,7 @@ var classWhiteCore_1_1ClientStack_1_1LLUDPServer =
     [ "ResendUnacked", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html#a80ecbfca806349fd4a2a1c69612147e2", null ],
     [ "SendAcks", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html#a1bd7fab23390c28a2e2294a051b30a80", null ],
     [ "SendPacket", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html#a699b03ae4099a1a09473b31b5a8453a0", null ],
-    [ "SendPacketData", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html#a4e54225766fcda4bf97f98fad990eb11", null ],
+    [ "SendPacketData", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html#a56eebee007e9b5cb2100101d19a19dc8", null ],
     [ "SendPacketFinal", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html#aa64dfb19f39cf287632e95ebe4b21f1d", null ],
     [ "SendPing", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html#a5eb8651d6345d7d4629b87e0685a2fd2", null ],
     [ "Start", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html#acc8e2fe6b4362290f63a432d75025129", null ],

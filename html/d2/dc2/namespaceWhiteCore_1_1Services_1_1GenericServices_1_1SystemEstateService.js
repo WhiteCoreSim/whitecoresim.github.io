@@ -1,0 +1,4 @@
+var namespaceWhiteCore_1_1Services_1_1GenericServices_1_1SystemEstateService =
+[
+    [ "SystemEstateService", "da/d96/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemEstateService_1_1SystemEstateService.html", "da/d96/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemEstateService_1_1SystemEstateService" ]
+];

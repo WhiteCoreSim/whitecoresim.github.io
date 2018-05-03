@@ -1,7 +1,7 @@
 var classWhiteCore_1_1Modules_1_1InventoryAccess_1_1BasicInventoryAccessModule =
 [
     [ "AddRegion", "de/dfa/classWhiteCore_1_1Modules_1_1InventoryAccess_1_1BasicInventoryAccessModule.html#a8fbf98cac3b67f765b34ee2f40e46c36", null ],
-    [ "CapsUpdateInventoryItemAsset", "de/dfa/classWhiteCore_1_1Modules_1_1InventoryAccess_1_1BasicInventoryAccessModule.html#a3c008c76016ff13c8a96be1b1ec22d52", null ],
+    [ "CapsUpdateInventoryItemAsset", "de/dfa/classWhiteCore_1_1Modules_1_1InventoryAccess_1_1BasicInventoryAccessModule.html#a8d85b09ed00c72bfcd8a0febb9c5a636", null ],
     [ "Close", "de/dfa/classWhiteCore_1_1Modules_1_1InventoryAccess_1_1BasicInventoryAccessModule.html#afa2a678875074dcc632702cca0b78bbc", null ],
     [ "CreateObjectFromInventory", "de/dfa/classWhiteCore_1_1Modules_1_1InventoryAccess_1_1BasicInventoryAccessModule.html#a51ede8f8ecb85ce7c2b2b570f70ee892", null ],
     [ "CreateObjectFromInventory", "de/dfa/classWhiteCore_1_1Modules_1_1InventoryAccess_1_1BasicInventoryAccessModule.html#a4d2006eae7b35397549c89e9db7c975b", null ],

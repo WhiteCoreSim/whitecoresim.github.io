@@ -1,7 +1,7 @@
 var classWhiteCore_1_1Framework_1_1SceneInfo_1_1TaskInventoryItem =
 [
     [ "TaskInventoryItem", "d7/d92/classWhiteCore_1_1Framework_1_1SceneInfo_1_1TaskInventoryItem.html#a2d9500e1604a0d210471412c95972767", null ],
-    [ "Clone", "d7/d92/classWhiteCore_1_1Framework_1_1SceneInfo_1_1TaskInventoryItem.html#a2f685fa09cf07e27aea1e11c37dc1cbd", null ],
+    [ "Clone", "d7/d92/classWhiteCore_1_1Framework_1_1SceneInfo_1_1TaskInventoryItem.html#a2e0212164ab76fb0140f221ae5bc3390", null ],
     [ "ResetIDs", "d7/d92/classWhiteCore_1_1Framework_1_1SceneInfo_1_1TaskInventoryItem.html#aa906cf313322fcb13ef8335ce03195f8", null ],
     [ "AssetID", "d7/d92/classWhiteCore_1_1Framework_1_1SceneInfo_1_1TaskInventoryItem.html#adceb5701a99a5725405b4ca7436e0ad0", null ],
     [ "BasePermissions", "d7/d92/classWhiteCore_1_1Framework_1_1SceneInfo_1_1TaskInventoryItem.html#a576a1ffe62ff5c7c44f25cc68fed6720", null ],

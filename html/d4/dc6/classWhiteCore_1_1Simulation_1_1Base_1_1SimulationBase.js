@@ -31,6 +31,8 @@ var classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase =
     [ "m_configurationLoader", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#a0c7ae45e875fff97215d63d625fa6edc", null ],
     [ "m_defaultDataPath", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#a7475acecf98d225da13b673a7505abfd", null ],
     [ "m_eventManager", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#a8412a2344b948f5ca7f44ff925ac44fd", null ],
+    [ "m_mapcenter_x", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#a49027a72a4488429ffbc479565161d25", null ],
+    [ "m_mapcenter_y", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#aad1107fea13f0ce64ad5bddc9db66791", null ],
     [ "m_original_config", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#a1c64621b5002e34f3c0af0faea5ac102", null ],
     [ "m_pidFile", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#aeb2a4b73403e9dc27248727ea8be4f14", null ],
     [ "m_Port", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#ad85eabe56730a5e68c0c86955c6f5231", null ],
@@ -50,6 +52,8 @@ var classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase =
     [ "EventManager", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#a3a45de77b7552cbc605343f3e82a53b2", null ],
     [ "HttpServer", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#af8854fefb8c497b100f1667560873a0e", null ],
     [ "IsGridServer", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#ac6994fde386f7a070b31f6525b0338ea", null ],
+    [ "MapCenterX", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#a502a7667bd7df08963ce20820452f8a0", null ],
+    [ "MapCenterY", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#ab5c720945912781c40846372b05bb40c", null ],
     [ "StartupTime", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#a392dea38d24fa5d116ec542cb0431d07", null ],
     [ "Version", "d4/dc6/classWhiteCore_1_1Simulation_1_1Base_1_1SimulationBase.html#aea21f8df2efde7a693c0b4a3eaed136b", null ]
 ];

@@ -14,6 +14,8 @@ var interfaceWhiteCore_1_1Framework_1_1Modules_1_1ISimulationBase =
     [ "DefaultDataPath", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ISimulationBase.html#aabeedc8dead7fdcc76c00d56d666c44f", null ],
     [ "EventManager", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ISimulationBase.html#a90b37e1c10ae4f804887f8336de1b048", null ],
     [ "IsGridServer", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ISimulationBase.html#aa34cf9d4ae44237e339604a96b6301eb", null ],
+    [ "MapCenterX", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ISimulationBase.html#a09b169cee1ac7e70b19a01eb30cedfb2", null ],
+    [ "MapCenterY", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ISimulationBase.html#acfd0640979f2c3d932bec5f931bd145a", null ],
     [ "StartupTime", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ISimulationBase.html#a6a1cfe2f9598c9ba83979e28e8a99f49", null ],
     [ "Version", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ISimulationBase.html#ab172911029e632d1b5c5ccc770347398", null ]
 ];

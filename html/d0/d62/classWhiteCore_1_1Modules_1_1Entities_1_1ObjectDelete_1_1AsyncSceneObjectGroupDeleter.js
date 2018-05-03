@@ -3,7 +3,7 @@ var classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGro
     [ "AddRegion", "d0/d62/classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGroupDeleter.html#a2145a8ec3c1ca32b9a1cb88cf8007326", null ],
     [ "Close", "d0/d62/classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGroupDeleter.html#a58f65ad7dcb1be4f6f52b3795745d874", null ],
     [ "DeleteObject", "d0/d62/classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGroupDeleter.html#a18df4d6ffe5ce309ae6e6b0f74aad0d7", null ],
-    [ "DeleteToInventory", "d0/d62/classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGroupDeleter.html#addfa0518594d0356002e25aded300a45", null ],
+    [ "DeleteToInventory", "d0/d62/classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGroupDeleter.html#ac574915196131daccce78fde8ac7e4ba", null ],
     [ "DoDeleteObject", "d0/d62/classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGroupDeleter.html#a3920336558a3abc80a193855ceb49d7d", null ],
     [ "Initialise", "d0/d62/classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGroupDeleter.html#a7c820316b79101481bed423bcb76a5a3", null ],
     [ "RegionLoaded", "d0/d62/classWhiteCore_1_1Modules_1_1Entities_1_1ObjectDelete_1_1AsyncSceneObjectGroupDeleter.html#a3a62e80f89f4f84007bf071923323284", null ],

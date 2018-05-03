@@ -11,7 +11,7 @@ var classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector =
     [ "CreateGroup", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html#a3bbde4e498a50026b41ea5abbbd97e2e", null ],
     [ "Dispose", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html#a241d4c8940eea88c2225edab926c21c8", null ],
     [ "EditGroupNotice", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html#afdcfe3ccf1f303964d324cc157fb3d1a", null ],
-    [ "FindGroups", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html#ad19440bc686cb9f72dc6cf110d2dbdb8", null ],
+    [ "FindGroups", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html#a1d380491b8eb077f4ca88d6b56f71b6d", null ],
     [ "GetActiveProposals", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html#ad8c5124eb11b0b02c96dcf5b5299a6b7", null ],
     [ "GetAgentActiveGroup", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html#ac00f7d595cb97577bd5c595e04bac3eb", null ],
     [ "GetAgentGroupMemberData", "d9/dec/classWhiteCore_1_1Services_1_1DataService_1_1LocalGroupsServiceConnector.html#a7afc253436583c413d4190e09daabdcc", null ],

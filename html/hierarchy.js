@@ -13,11 +13,11 @@ var hierarchy =
     [ "WhiteCore.Framework.ClientInterfaces.AnimationSet", "d3/d65/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AnimationSet.html", null ],
     [ "WhiteCore.ScriptEngine.DotNetEngine.AppDomainManager", "dd/d15/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1AppDomainManager.html", null ],
     [ "WhiteCore.Server.Application", "d6/dab/classWhiteCore_1_1Server_1_1Application.html", null ],
-    [ "WhiteCore.Servers.AssetServer.Application", "de/d8a/classWhiteCore_1_1Servers_1_1AssetServer_1_1Application.html", null ],
-    [ "WhiteCore.Servers.AvatarServer.Application", "dd/da2/classWhiteCore_1_1Servers_1_1AvatarServer_1_1Application.html", null ],
     [ "WhiteCore.Servers.GridServer.Application", "d2/dbe/classWhiteCore_1_1Servers_1_1GridServer_1_1Application.html", null ],
-    [ "WhiteCore.Servers.InventoryServer.Application", "d8/d9d/classWhiteCore_1_1Servers_1_1InventoryServer_1_1Application.html", null ],
+    [ "WhiteCore.Servers.AssetServer.Application", "de/d8a/classWhiteCore_1_1Servers_1_1AssetServer_1_1Application.html", null ],
     [ "WhiteCore.Server.WebServer.Application", "d4/da0/classWhiteCore_1_1Server_1_1WebServer_1_1Application.html", null ],
+    [ "WhiteCore.Servers.AvatarServer.Application", "dd/da2/classWhiteCore_1_1Servers_1_1AvatarServer_1_1Application.html", null ],
+    [ "WhiteCore.Servers.InventoryServer.Application", "d8/d9d/classWhiteCore_1_1Servers_1_1InventoryServer_1_1Application.html", null ],
     [ "WhiteCore.Application", "d3/df3/classWhiteCore_1_1Application.html", null ],
     [ "WhiteCore.Framework.Serialization.ArchiveConstants", "d4/dad/classWhiteCore_1_1Framework_1_1Serialization_1_1ArchiveConstants.html", null ],
     [ "WhiteCore.Framework.Serialization.ArchiveHelpers", "d4/d41/classWhiteCore_1_1Framework_1_1Serialization_1_1ArchiveHelpers.html", null ],
@@ -549,7 +549,8 @@ var hierarchy =
         [ "WhiteCore.Modules.Web.GridPage", "d5/d0b/classWhiteCore_1_1Modules_1_1Web_1_1GridPage.html", null ],
         [ "WhiteCore.Modules.Web.GridSettings", "d5/d7c/classWhiteCore_1_1Modules_1_1Web_1_1GridSettings.html", null ],
         [ "WhiteCore.Modules.Web.GridWelcomeScreen", "d3/dc1/classWhiteCore_1_1Modules_1_1Web_1_1GridWelcomeScreen.html", null ],
-        [ "WhiteCore.Modules.Web.WebUISettings", "de/d62/classWhiteCore_1_1Modules_1_1Web_1_1WebUISettings.html", null ]
+        [ "WhiteCore.Modules.Web.WebUISettings", "de/d62/classWhiteCore_1_1Modules_1_1Web_1_1WebUISettings.html", null ],
+        [ "WhiteCore.Services.API.APIAuthItem", "df/d9e/classWhiteCore_1_1Services_1_1API_1_1APIAuthItem.html", null ]
       ] ]
     ] ],
     [ "WhiteCore.Framework.Services.IDefaultLibraryLoader", "d0/ded/interfaceWhiteCore_1_1Framework_1_1Services_1_1IDefaultLibraryLoader.html", [
@@ -779,8 +780,8 @@ var hierarchy =
     [ "WhiteCore.Framework.Services.ILoginService", "de/dc9/interfaceWhiteCore_1_1Framework_1_1Services_1_1ILoginService.html", [
       [ "WhiteCore.Services.LLLoginService", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html", null ]
     ] ],
-    [ "WhiteCore.Modules.WorldMap.ImageUtils", "da/d34/classWhiteCore_1_1Modules_1_1WorldMap_1_1ImageUtils.html", null ],
     [ "WhiteCore.Modules.WorldMap.Warp3DMap.ImageUtils", "d2/d92/classWhiteCore_1_1Modules_1_1WorldMap_1_1Warp3DMap_1_1ImageUtils.html", null ],
+    [ "WhiteCore.Modules.WorldMap.ImageUtils", "da/d34/classWhiteCore_1_1Modules_1_1WorldMap_1_1ImageUtils.html", null ],
     [ "WhiteCore.Framework.Modules.IMapImageGenerator", "dc/dda/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IMapImageGenerator.html", [
       [ "WhiteCore.Modules.WorldMap.MapImageModule", "db/dda/classWhiteCore_1_1Modules_1_1WorldMap_1_1MapImageModule.html", null ]
     ] ],
@@ -1266,7 +1267,6 @@ var hierarchy =
       [ "WhiteCore.Modules.Currency.GroupPayments", "dd/d92/classWhiteCore_1_1Modules_1_1Currency_1_1GroupPayments.html", null ],
       [ "WhiteCore.Modules.Currency.RPCHandler", "d2/d13/classWhiteCore_1_1Modules_1_1Currency_1_1RPCHandler.html", null ],
       [ "WhiteCore.Modules.Currency.ScheduledPayments", "d3/d43/classWhiteCore_1_1Modules_1_1Currency_1_1ScheduledPayments.html", null ],
-      [ "WhiteCore.Modules.Estate.SystemEstateService", "d7/d9b/classWhiteCore_1_1Modules_1_1Estate_1_1SystemEstateService.html", null ],
       [ "WhiteCore.Modules.Installer.ModuleInstaller", "d5/d86/classWhiteCore_1_1Modules_1_1Installer_1_1ModuleInstaller.html", null ],
       [ "WhiteCore.Modules.Scripting.XMLRPCModule", "d6/df1/classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule.html", null ],
       [ "WhiteCore.Modules.VivoxVoiceService", "d0/d63/classWhiteCore_1_1Modules_1_1VivoxVoiceService.html", null ],
@@ -1278,11 +1278,7 @@ var hierarchy =
       [ "WhiteCore.Services.AgentAppearanceService", "d5/db3/classWhiteCore_1_1Services_1_1AgentAppearanceService.html", null ],
       [ "WhiteCore.Services.AgentInfoService", "d0/d27/classWhiteCore_1_1Services_1_1AgentInfoService.html", null ],
       [ "WhiteCore.Services.AgentProcessing", "de/df7/classWhiteCore_1_1Services_1_1AgentProcessing.html", null ],
-      [ "WhiteCore.Services.API.WebAPI.ClassifiedAPI", "dc/d0e/classWhiteCore_1_1Services_1_1API_1_1WebAPI_1_1ClassifiedAPI.html", null ],
-      [ "WhiteCore.Services.API.WebAPI.CurrencyAPI", "d3/d80/classWhiteCore_1_1Services_1_1API_1_1WebAPI_1_1CurrencyAPI.html", null ],
-      [ "WhiteCore.Services.API.WebAPI.EventsAPI", "df/de1/classWhiteCore_1_1Services_1_1API_1_1WebAPI_1_1EventsAPI.html", null ],
-      [ "WhiteCore.Services.API.WebAPI.MarketPlaceAPI", "d1/d61/classWhiteCore_1_1Services_1_1API_1_1WebAPI_1_1MarketPlaceAPI.html", null ],
-      [ "WhiteCore.Services.API.WebAPI.RegionAPI", "d2/d94/classWhiteCore_1_1Services_1_1API_1_1WebAPI_1_1RegionAPI.html", null ],
+      [ "WhiteCore.Services.API.APIService", "d8/dde/classWhiteCore_1_1Services_1_1API_1_1APIService.html", null ],
       [ "WhiteCore.Services.AppearanceProcessing", "d5/d9e/classWhiteCore_1_1Services_1_1AppearanceProcessing.html", null ],
       [ "WhiteCore.Services.AuthorizationService", "dc/d51/classWhiteCore_1_1Services_1_1AuthorizationService.html", null ],
       [ "WhiteCore.Services.CapsService", "d5/d27/classWhiteCore_1_1Services_1_1CapsService.html", null ],
@@ -1296,6 +1292,7 @@ var hierarchy =
       [ "WhiteCore.Services.GenericServices.CapsService.ExternalCapsHandler", "d6/d4f/classWhiteCore_1_1Services_1_1GenericServices_1_1CapsService_1_1ExternalCapsHandler.html", null ],
       [ "WhiteCore.Services.GenericServices.GridServerInfoService", "dc/d13/classWhiteCore_1_1Services_1_1GenericServices_1_1GridServerInfoService.html", null ],
       [ "WhiteCore.Services.GenericServices.SystemAccountService.SystemAccountService", "d5/dad/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemAccountService_1_1SystemAccountService.html", null ],
+      [ "WhiteCore.Services.GenericServices.SystemEstateService.SystemEstateService", "da/d96/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemEstateService_1_1SystemEstateService.html", null ],
       [ "WhiteCore.Services.GlynnTuckerAssetCache", "d2/d51/classWhiteCore_1_1Services_1_1GlynnTuckerAssetCache.html", null ],
       [ "WhiteCore.Services.GridInfoServerInConnector", "d6/d78/classWhiteCore_1_1Services_1_1GridInfoServerInConnector.html", null ],
       [ "WhiteCore.Services.GridWideMessageModule", "d9/d01/classWhiteCore_1_1Services_1_1GridWideMessageModule.html", null ],
@@ -1363,8 +1360,34 @@ var hierarchy =
       [ "WhiteCore.Framework.Servers.HttpServer.BaseRequestHandler", "d6/df4/classWhiteCore_1_1Framework_1_1Servers_1_1HttpServer_1_1BaseRequestHandler.html", [
         [ "WhiteCore.Framework.Servers.HttpServer.GenericStreamHandler", "d7/d2c/classWhiteCore_1_1Framework_1_1Servers_1_1HttpServer_1_1GenericStreamHandler.html", null ],
         [ "WhiteCore.Framework.Services.ServerHandler", "dd/dae/classWhiteCore_1_1Framework_1_1Services_1_1ServerHandler.html", null ],
-        [ "WhiteCore.Modules.WorldView.WorldViewRequestHandler", "d6/d0e/classWhiteCore_1_1Modules_1_1WorldView_1_1WorldViewRequestHandler.html", null ]
-      ] ]
+        [ "WhiteCore.Modules.WorldView.WorldViewRequestHandler", "d6/d0e/classWhiteCore_1_1Modules_1_1WorldView_1_1WorldViewRequestHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+        [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ]
+      ] ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ],
+      [ "WhiteCore.Services.API.APIHandler", "d9/d00/classWhiteCore_1_1Services_1_1API_1_1APIHandler.html", null ]
     ] ],
     [ "WhiteCore.Framework.Services.ISyncMessagePosterService", "d4/d96/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISyncMessagePosterService.html", [
       [ "WhiteCore.Services.SyncMessagePosterService", "de/d78/classWhiteCore_1_1Services_1_1SyncMessagePosterService.html", null ]
@@ -1376,7 +1399,7 @@ var hierarchy =
       [ "WhiteCore.Services.GenericServices.SystemAccountService.SystemAccountService", "d5/dad/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemAccountService_1_1SystemAccountService.html", null ]
     ] ],
     [ "WhiteCore.Framework.Services.ISystemEstateService", "d6/d2a/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemEstateService.html", [
-      [ "WhiteCore.Modules.Estate.SystemEstateService", "d7/d9b/classWhiteCore_1_1Modules_1_1Estate_1_1SystemEstateService.html", null ]
+      [ "WhiteCore.Services.GenericServices.SystemEstateService.SystemEstateService", "da/d96/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemEstateService_1_1SystemEstateService.html", null ]
     ] ],
     [ "WhiteCore.Modules.Inventory.LLClientInventory.ItemUpdater", "d4/d10/classWhiteCore_1_1Modules_1_1Inventory_1_1LLClientInventory_1_1ItemUpdater.html", null ],
     [ "WhiteCore.Framework.Modules.ITerrain", "d0/df6/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ITerrain.html", null ],
@@ -1423,6 +1446,9 @@ var hierarchy =
       [ "WhiteCore.Modules.Web.Translators.FrenchTranslation", "db/d60/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1FrenchTranslation.html", null ],
       [ "WhiteCore.Modules.Web.Translators.GermanTranslation", "d9/d21/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1GermanTranslation.html", null ],
       [ "WhiteCore.Modules.Web.Translators.ItalianTranslation", "db/d6a/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1ItalianTranslation.html", null ],
+      [ "WhiteCore.Modules.Web.Translators.RussianTranslation", "d4/d36/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1RussianTranslation.html", null ],
+      [ "WhiteCore.Modules.Web.Translators.SimpleChineseTranslation", "d6/d29/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1SimpleChineseTranslation.html", null ],
+      [ "WhiteCore.Modules.Web.Translators.SkeletonTranslation", "d8/dfb/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1SkeletonTranslation.html", null ],
       [ "WhiteCore.Modules.Web.Translators.SpanishTranslation", "dd/d05/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1SpanishTranslation.html", null ]
     ] ],
     [ "WhiteCore.Framework.Modules.IUrlModule", "d5/d0e/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IUrlModule.html", [
@@ -1460,6 +1486,8 @@ var hierarchy =
       [ "WhiteCore.Modules.Web.CSSLanguageSetterPage", "d4/d3d/classWhiteCore_1_1Modules_1_1Web_1_1CSSLanguageSetterPage.html", null ],
       [ "WhiteCore.Modules.Web.EditNewPage", "d9/df4/classWhiteCore_1_1Modules_1_1Web_1_1EditNewPage.html", null ],
       [ "WhiteCore.Modules.Web.EditUserPage", "df/d85/classWhiteCore_1_1Modules_1_1Web_1_1EditUserPage.html", null ],
+      [ "WhiteCore.Modules.Web.EstateEditPage", "d5/d97/classWhiteCore_1_1Modules_1_1Web_1_1EstateEditPage.html", null ],
+      [ "WhiteCore.Modules.Web.EstateManagerPage", "d6/d57/classWhiteCore_1_1Modules_1_1Web_1_1EstateManagerPage.html", null ],
       [ "WhiteCore.Modules.Web.EventsAddMain", "d8/d80/classWhiteCore_1_1Modules_1_1Web_1_1EventsAddMain.html", null ],
       [ "WhiteCore.Modules.Web.EventsMain", "d8/d24/classWhiteCore_1_1Modules_1_1Web_1_1EventsMain.html", null ],
       [ "WhiteCore.Modules.Web.FactoryResetPage", "de/d05/classWhiteCore_1_1Modules_1_1Web_1_1FactoryResetPage.html", null ],
@@ -1477,6 +1505,7 @@ var hierarchy =
       [ "WhiteCore.Modules.Web.LoginPage", "d9/de9/classWhiteCore_1_1Modules_1_1Web_1_1LoginPage.html", null ],
       [ "WhiteCore.Modules.Web.LogoutPage", "d8/ddc/classWhiteCore_1_1Modules_1_1Web_1_1LogoutPage.html", null ],
       [ "WhiteCore.Modules.Web.MaintenancePage", "d1/d1d/classWhiteCore_1_1Modules_1_1Web_1_1MaintenancePage.html", null ],
+      [ "WhiteCore.Modules.Web.MapAPIPage", "d6/d2b/classWhiteCore_1_1Modules_1_1Web_1_1MapAPIPage.html", null ],
       [ "WhiteCore.Modules.Web.NewsManagerPage", "df/dd7/classWhiteCore_1_1Modules_1_1Web_1_1NewsManagerPage.html", null ],
       [ "WhiteCore.Modules.Web.NewsPage", "d9/d39/classWhiteCore_1_1Modules_1_1Web_1_1NewsPage.html", null ],
       [ "WhiteCore.Modules.Web.NewsWelcomeScreenPage", "d7/d08/classWhiteCore_1_1Modules_1_1Web_1_1NewsWelcomeScreenPage.html", null ],
@@ -1484,8 +1513,10 @@ var hierarchy =
       [ "WhiteCore.Modules.Web.OnlineUsersPage", "d1/d3e/classWhiteCore_1_1Modules_1_1Web_1_1OnlineUsersPage.html", null ],
       [ "WhiteCore.Modules.Web.PageManagerPage", "d6/d3a/classWhiteCore_1_1Modules_1_1Web_1_1PageManagerPage.html", null ],
       [ "WhiteCore.Modules.Web.RegionBoxPage", "da/d37/classWhiteCore_1_1Modules_1_1Web_1_1RegionBoxPage.html", null ],
+      [ "WhiteCore.Modules.Web.RegionEditPage", "d5/d8e/classWhiteCore_1_1Modules_1_1Web_1_1RegionEditPage.html", null ],
       [ "WhiteCore.Modules.Web.RegionInfoOldPage", "d6/dbc/classWhiteCore_1_1Modules_1_1Web_1_1RegionInfoOldPage.html", null ],
       [ "WhiteCore.Modules.Web.RegionInfoPage", "da/d34/classWhiteCore_1_1Modules_1_1Web_1_1RegionInfoPage.html", null ],
+      [ "WhiteCore.Modules.Web.RegionListPage", "da/de2/classWhiteCore_1_1Modules_1_1Web_1_1RegionListPage.html", null ],
       [ "WhiteCore.Modules.Web.RegionManagerPage", "d9/d63/classWhiteCore_1_1Modules_1_1Web_1_1RegionManagerPage.html", null ],
       [ "WhiteCore.Modules.Web.RegionOwnerPage", "db/d4c/classWhiteCore_1_1Modules_1_1Web_1_1RegionOwnerPage.html", null ],
       [ "WhiteCore.Modules.Web.RegionParcelsPage", "d9/dd5/classWhiteCore_1_1Modules_1_1Web_1_1RegionParcelsPage.html", null ],
@@ -1494,16 +1525,21 @@ var hierarchy =
       [ "WhiteCore.Modules.Web.SettingsManagerPage", "d1/d9e/classWhiteCore_1_1Modules_1_1Web_1_1SettingsManagerPage.html", null ],
       [ "WhiteCore.Modules.Web.SimConsolePage", "d7/d0d/classWhiteCore_1_1Modules_1_1Web_1_1SimConsolePage.html", null ],
       [ "WhiteCore.Modules.Web.SkeletonPage", "dd/d81/classWhiteCore_1_1Modules_1_1Web_1_1SkeletonPage.html", null ],
-      [ "WhiteCore.Modules.Web.SLMapAPIPage", "da/d6c/classWhiteCore_1_1Modules_1_1Web_1_1SLMapAPIPage.html", null ],
+      [ "WhiteCore.Modules.Web.UserEditEvents", "d8/d61/classWhiteCore_1_1Modules_1_1Web_1_1UserEditEvents.html", null ],
+      [ "WhiteCore.Modules.Web.UserEstateEditPage", "d3/d63/classWhiteCore_1_1Modules_1_1Web_1_1UserEstateEditPage.html", null ],
+      [ "WhiteCore.Modules.Web.UserEstateManagerPage", "d3/de4/classWhiteCore_1_1Modules_1_1Web_1_1UserEstateManagerPage.html", null ],
+      [ "WhiteCore.Modules.Web.UserEvents", "d7/d44/classWhiteCore_1_1Modules_1_1Web_1_1UserEvents.html", null ],
+      [ "WhiteCore.Modules.Web.UserPartnershipPage", "d5/d3d/classWhiteCore_1_1Modules_1_1Web_1_1UserPartnershipPage.html", null ],
       [ "WhiteCore.Modules.Web.UserProfilePage", "d4/d33/classWhiteCore_1_1Modules_1_1Web_1_1UserProfilePage.html", null ],
       [ "WhiteCore.Modules.Web.UserPurchasesPage", "d7/d69/classWhiteCore_1_1Modules_1_1Web_1_1UserPurchasesPage.html", null ],
+      [ "WhiteCore.Modules.Web.UserRegionEditPage", "d4/d36/classWhiteCore_1_1Modules_1_1Web_1_1UserRegionEditPage.html", null ],
+      [ "WhiteCore.Modules.Web.UserRegionManagerPage", "dc/d08/classWhiteCore_1_1Modules_1_1Web_1_1UserRegionManagerPage.html", null ],
       [ "WhiteCore.Modules.Web.UserSearchPage", "d9/d9f/classWhiteCore_1_1Modules_1_1Web_1_1UserSearchPage.html", null ],
       [ "WhiteCore.Modules.Web.UserStatisticsPage", "d4/d0c/classWhiteCore_1_1Modules_1_1Web_1_1UserStatisticsPage.html", null ],
       [ "WhiteCore.Modules.Web.UserTransactionsPage", "d2/da9/classWhiteCore_1_1Modules_1_1Web_1_1UserTransactionsPage.html", null ],
       [ "WhiteCore.Modules.Web.WelcomeScreenMain", "df/d70/classWhiteCore_1_1Modules_1_1Web_1_1WelcomeScreenMain.html", null ],
       [ "WhiteCore.Modules.Web.WelcomeScreenManagerPage", "dd/dfc/classWhiteCore_1_1Modules_1_1Web_1_1WelcomeScreenManagerPage.html", null ],
-      [ "WhiteCore.Modules.Web.WorldMain", "d9/d20/classWhiteCore_1_1Modules_1_1Web_1_1WorldMain.html", null ],
-      [ "WhiteCore.Modules.Web.WorldMapPage", "d0/dad/classWhiteCore_1_1Modules_1_1Web_1_1WorldMapPage.html", null ]
+      [ "WhiteCore.Modules.Web.WorldMain", "d9/d20/classWhiteCore_1_1Modules_1_1Web_1_1WorldMain.html", null ]
     ] ],
     [ "WhiteCore.Framework.Modules.IWhiteCoreBackupArchiver", "d6/dcb/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IWhiteCoreBackupArchiver.html", [
       [ "WhiteCore.Modules.Archivers.WhiteCoreArchiver", "d2/d0d/classWhiteCore_1_1Modules_1_1Archivers_1_1WhiteCoreArchiver.html", null ]
@@ -1769,7 +1805,7 @@ var hierarchy =
     [ "WhiteCore.Physics.PrimMesher.PrimMesh", "d8/d97/classWhiteCore_1_1Physics_1_1PrimMesher_1_1PrimMesh.html", null ],
     [ "WhiteCore.Framework.PresenceInfo.PrimUpdateFlagsExtensions", "d8/d80/classWhiteCore_1_1Framework_1_1PresenceInfo_1_1PrimUpdateFlagsExtensions.html", null ],
     [ "WhiteCore.Framework.Utilities.PriorityQueue< WhiteCore.ClientStack.J2KImage, float >", "de/dcd/classWhiteCore_1_1Framework_1_1Utilities_1_1PriorityQueue.html", null ],
-    [ "WhiteCore.Framework.Utilities.PriorityQueue< WhiteCore.ScriptEngine.DotNetEngine.QueueItemStruct, Int64 >", "de/dcd/classWhiteCore_1_1Framework_1_1Utilities_1_1PriorityQueue.html", null ],
+    [ "WhiteCore.Framework.Utilities.PriorityQueue< WhiteCore.ScriptEngine.DotNetEngine.QueueItemStruct, long >", "de/dcd/classWhiteCore_1_1Framework_1_1Utilities_1_1PriorityQueue.html", null ],
     [ "WhiteCore.Framework.Utilities.PriorityQueueItem< TValue, TPriority >", "d4/dc4/structWhiteCore_1_1Framework_1_1Utilities_1_1PriorityQueueItem.html", null ],
     [ "WhiteCore.Physics.PrimMesher.Profile", "d4/d6d/classWhiteCore_1_1Physics_1_1PrimMesher_1_1Profile.html", null ],
     [ "WhiteCore.Framework.Services.ClassHelpers.Profile.ProfileInterests", "d0/d4c/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1ProfileInterests.html", null ],
@@ -1784,8 +1820,8 @@ var hierarchy =
     [ "RunTimeCompiler.ProjectSourceFile", "d5/d3d/classRunTimeCompiler_1_1ProjectSourceFile.html", null ],
     [ "WhiteCore.Framework.Utilities.ProtocolVersion", "da/d07/classWhiteCore_1_1Framework_1_1Utilities_1_1ProtocolVersion.html", null ],
     [ "WhiteCore.Physics.PrimMesher.Quat", "dd/da2/structWhiteCore_1_1Physics_1_1PrimMesher_1_1Quat.html", null ],
-    [ "WhiteCore.ScriptEngine.DotNetEngine.LSL_Types.Quaternion", "d7/de5/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Quaternion.html", null ],
     [ "WhiteCore.Physics.OpenDynamicsEngine.d.Quaternion", "d5/d3b/structWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1d_1_1Quaternion.html", null ],
+    [ "WhiteCore.ScriptEngine.DotNetEngine.LSL_Types.Quaternion", "d7/de5/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Quaternion.html", null ],
     [ "WhiteCore.Framework.Services.QueryFilter", "df/d88/classWhiteCore_1_1Framework_1_1Services_1_1QueryFilter.html", null ],
     [ "WhiteCore.Framework.Services.QueryTable", "db/d6e/classWhiteCore_1_1Framework_1_1Services_1_1QueryTable.html", null ],
     [ "WhiteCore.Framework.Services.QueryTables", "d8/d6e/classWhiteCore_1_1Framework_1_1Services_1_1QueryTables.html", null ],
@@ -1801,6 +1837,7 @@ var hierarchy =
     [ "WhiteCore.Framework.Serialization.External.RegionSettingsSerializer", "da/dbb/classWhiteCore_1_1Framework_1_1Serialization_1_1External_1_1RegionSettingsSerializer.html", null ],
     [ "WhiteCore.Modules.Scripting.RequestData", "d8/d58/classWhiteCore_1_1Modules_1_1Scripting_1_1RequestData.html", null ],
     [ "WhiteCore.Modules.Scripting.LoadImageURLModule.RequestState", "da/de4/classWhiteCore_1_1Modules_1_1Scripting_1_1LoadImageURLModule_1_1RequestState.html", null ],
+    [ "WhiteCore.Services.GenericServices.CapsService.CAPModules.Region.RetrieveNavMeshSrc", "d4/d22/classWhiteCore_1_1Services_1_1GenericServices_1_1CapsService_1_1CAPModules_1_1Region_1_1RetrieveNavMeshSrc.html", null ],
     [ "WhiteCore.Framework.SceneInfo.ReturnInfo", "d6/d2c/structWhiteCore_1_1Framework_1_1SceneInfo_1_1ReturnInfo.html", null ],
     [ "WhiteCore.Modules.Scripting.RPCChannelInfo", "d6/d1c/classWhiteCore_1_1Modules_1_1Scripting_1_1RPCChannelInfo.html", null ],
     [ "WhiteCore.Framework.Serialization.SceneEntitySerializer", "d9/dbc/classWhiteCore_1_1Framework_1_1Serialization_1_1SceneEntitySerializer.html", null ],
@@ -1849,6 +1886,7 @@ var hierarchy =
     [ "WhiteCore.ClientStack.ThrottleRates", "de/d3e/classWhiteCore_1_1ClientStack_1_1ThrottleRates.html", null ],
     [ "WhiteCore.Framework.Utilities.TimedSaving< AvatarAppearance >", "dd/d8d/classWhiteCore_1_1Framework_1_1Utilities_1_1TimedSaving.html", null ],
     [ "WhiteCore.ClientStack.TokenBucket", "d3/d01/classWhiteCore_1_1ClientStack_1_1TokenBucket.html", null ],
+    [ "WhiteCore.Modules.Web.Translators.TranslatorSerialization", "d6/d32/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1TranslatorSerialization.html", null ],
     [ "WhiteCore.ClientStack.UDPBase", "d8/d96/classWhiteCore_1_1ClientStack_1_1UDPBase.html", [
       [ "WhiteCore.ClientStack.LLUDPServer", "d7/d99/classWhiteCore_1_1ClientStack_1_1LLUDPServer.html", null ]
     ] ],
@@ -1869,8 +1907,8 @@ var hierarchy =
     [ "WhiteCore.Framework.Utilities.Utilities", "db/d44/classWhiteCore_1_1Framework_1_1Utilities_1_1Utilities.html", null ],
     [ "WhiteCore.Framework.SceneInfo.UuidGatherer", "d3/d09/classWhiteCore_1_1Framework_1_1SceneInfo_1_1UuidGatherer.html", null ],
     [ "WhiteCore.Physics.PrimMesher.UVCoord", "d5/d97/structWhiteCore_1_1Physics_1_1PrimMesher_1_1UVCoord.html", null ],
-    [ "WhiteCore.Physics.OpenDynamicsEngine.d.Vector3", "d4/d03/structWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1d_1_1Vector3.html", null ],
     [ "WhiteCore.ScriptEngine.DotNetEngine.LSL_Types.Vector3", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html", null ],
+    [ "WhiteCore.Physics.OpenDynamicsEngine.d.Vector3", "d4/d03/structWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1d_1_1Vector3.html", null ],
     [ "WhiteCore.Physics.OpenDynamicsEngine.d.Vector4", "d3/de6/structWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1d_1_1Vector4.html", null ],
     [ "WhiteCore.Framework.Utilities.VersionInfo", "dd/d42/classWhiteCore_1_1Framework_1_1Utilities_1_1VersionInfo.html", null ],
     [ "WhiteCore.Physics.ConvexDecompositionDotNet.VertexPool", "de/dfa/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1VertexPool.html", null ],
@@ -1881,6 +1919,7 @@ var hierarchy =
     [ "WhiteCore.Framework.ClientInterfaces.AvatarWearingArgs.Wearable", "de/d52/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarWearingArgs_1_1Wearable.html", null ],
     [ "WhiteCore.Framework.PresenceInfo.WearableCache", "da/dfd/classWhiteCore_1_1Framework_1_1PresenceInfo_1_1WearableCache.html", null ],
     [ "WhiteCore.Framework.ClientInterfaces.WearableItem", "db/da8/structWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WearableItem.html", null ],
+    [ "WhiteCore.Modules.Web.WebHelpers", "dd/dcd/classWhiteCore_1_1Modules_1_1Web_1_1WebHelpers.html", null ],
     [ "WhiteCore.Framework.Utilities.WebUtils", "d3/d3c/classWhiteCore_1_1Framework_1_1Utilities_1_1WebUtils.html", null ],
     [ "WhiteCore.Framework.Services.ClassHelpers.Other.WhiteCoreEventManager", "da/d24/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Other_1_1WhiteCoreEventManager.html", null ],
     [ "WhiteCore.Framework.ModuleLoader.WhiteCoreModuleLoader", "d4/d52/classWhiteCore_1_1Framework_1_1ModuleLoader_1_1WhiteCoreModuleLoader.html", null ],

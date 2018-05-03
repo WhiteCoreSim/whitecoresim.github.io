@@ -32,5 +32,6 @@ var searchData=
   ['timerplugin',['TimerPlugin',['../da/dcb/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1Plugins_1_1TimerPlugin.html',1,'WhiteCore::ScriptEngine::DotNetEngine::Plugins']]],
   ['tokenbucket',['TokenBucket',['../d3/d01/classWhiteCore_1_1ClientStack_1_1TokenBucket.html',1,'WhiteCore::ClientStack']]],
   ['totalframemonitor',['TotalFrameMonitor',['../d5/d71/classWhiteCore_1_1Modules_1_1Monitoring_1_1Monitors_1_1TotalFrameMonitor.html',1,'WhiteCore::Modules::Monitoring::Monitors']]],
-  ['toucheventargs',['TouchEventArgs',['../d9/d27/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1TouchEventArgs.html',1,'WhiteCore::ScriptEngine::DotNetEngine::MiniModule']]]
+  ['toucheventargs',['TouchEventArgs',['../d9/d27/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1TouchEventArgs.html',1,'WhiteCore::ScriptEngine::DotNetEngine::MiniModule']]],
+  ['translatorserialization',['TranslatorSerialization',['../d6/d32/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1TranslatorSerialization.html',1,'WhiteCore::Modules::Web::Translators']]]
 ];

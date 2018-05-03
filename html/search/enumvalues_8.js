@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['land',['Land',['../d2/d7e/namespaceWhiteCore_1_1Framework_1_1ClientInterfaces.html#ade6431d8d874b7870a3fecb6036f2776a512ef7c688a2c8572d5e16f44e17e869',1,'WhiteCore::Framework::ClientInterfaces']]],
-  ['linear_5fmotor_5fdirection',['LINEAR_MOTOR_DIRECTION',['../d6/d36/namespaceWhiteCore_1_1Framework_1_1Physics.html#add919a7417142d54808c743bf514c90bac2dbb79789ccd5955606e6401a06ed8b',1,'WhiteCore::Framework::Physics']]],
-  ['linear_5fmotor_5foffset',['LINEAR_MOTOR_OFFSET',['../d6/d36/namespaceWhiteCore_1_1Framework_1_1Physics.html#add919a7417142d54808c743bf514c90baf5412013d9b01f361f4b6db850c370ca',1,'WhiteCore::Framework::Physics']]],
-  ['low',['Low',['../d3/d2b/namespaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine.html#a6cad1940f9bb408d309c6014a68e5c49a28d0edd045e05cf5af64e35ae0c4c6ef',1,'WhiteCore::ScriptEngine::DotNetEngine']]]
+  ['jacket_5fbottom_5flength_5flower',['JACKET_BOTTOM_LENGTH_LOWER',['../db/dba/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarAppearance.html#a30844610c547f89fc8a820b4aea05090ad00ccc2a13596b524bc3c6203f3f02c3',1,'WhiteCore::Framework::ClientInterfaces::AvatarAppearance']]],
+  ['jacket_5fjacket_5fwrinkles',['JACKET_JACKET_WRINKLES',['../db/dba/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarAppearance.html#a30844610c547f89fc8a820b4aea05090a3b8000dc432bdd35a3d7312fcb0ab9b4',1,'WhiteCore::Framework::ClientInterfaces::AvatarAppearance']]],
+  ['jacket_5fopen_5fjacket',['JACKET_OPEN_JACKET',['../db/dba/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarAppearance.html#a30844610c547f89fc8a820b4aea05090a30f1e1f7126a94e951c3b03902bf6e4f',1,'WhiteCore::Framework::ClientInterfaces::AvatarAppearance']]]
 ];

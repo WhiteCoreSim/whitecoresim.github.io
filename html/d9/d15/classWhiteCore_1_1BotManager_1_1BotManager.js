@@ -14,6 +14,7 @@ var classWhiteCore_1_1BotManager_1_1BotManager =
     [ "GetPosition", "d9/d15/classWhiteCore_1_1BotManager_1_1BotManager.html#af380e4f77475c5694b6990bbcbb4fb2b", null ],
     [ "GetRotation", "d9/d15/classWhiteCore_1_1BotManager_1_1BotManager.html#a6f8b369bdbbadccc859d089d9d0e559d", null ],
     [ "Initialise", "d9/d15/classWhiteCore_1_1BotManager_1_1BotManager.html#a42ae8bfb732c7b8b7691ded62fe92539", null ],
+    [ "IsNpcAgent", "d9/d15/classWhiteCore_1_1BotManager_1_1BotManager.html#a5c414d287564aeeb2701b0f8c4252151", null ],
     [ "MoveToTarget", "d9/d15/classWhiteCore_1_1BotManager_1_1BotManager.html#a67f897a4f6abbb95728a522000aad051", null ],
     [ "PauseMovement", "d9/d15/classWhiteCore_1_1BotManager_1_1BotManager.html#a2f85227badb861494a95fc58ebfba52b", null ],
     [ "RegionLoaded", "d9/d15/classWhiteCore_1_1BotManager_1_1BotManager.html#a70c64bb690cb58bec91c0486cc4072fb", null ],

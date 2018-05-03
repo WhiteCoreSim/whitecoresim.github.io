@@ -4,7 +4,7 @@ var classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule =
     [ "Close", "d8/d3e/classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule.html#a30511b8d770b14ed81879cc929101507", null ],
     [ "Initialise", "d8/d3e/classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule.html#a71889ad83601d800874674ca88c0094b", null ],
     [ "KickUser", "d8/d3e/classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule.html#a8e193c6c986231f480a0aff7a4b5b532", null ],
-    [ "KickUser", "d8/d3e/classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule.html#adf205f0477c2c061914328063a10c57f", null ],
+    [ "KickUser", "d8/d3e/classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule.html#a7372615887f5395edef1b5dcab23bcf4", null ],
     [ "RegionLoaded", "d8/d3e/classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule.html#a5cd388d72eb69e0e18bb40695ec7a0a1", null ],
     [ "RegisterCaps", "d8/d3e/classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule.html#a38bb437f0e4625eed6377eb88350f605", null ],
     [ "RemoveRegion", "d8/d3e/classWhiteCore_1_1Modules_1_1Gods_1_1GodsModule.html#a217e15683ef86b4c91fdd631f8182426", null ],

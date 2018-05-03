@@ -68,6 +68,7 @@ var searchData=
   ['simframemonitor',['SimFrameMonitor',['../da/ddf/classWhiteCore_1_1Modules_1_1Monitoring_1_1Monitors_1_1SimFrameMonitor.html',1,'WhiteCore::Modules::Monitoring::Monitors']]],
   ['simmotionstate',['SimMotionState',['../da/dc6/classWhiteCore_1_1Physics_1_1BulletSPlugin_1_1SimMotionState.html',1,'WhiteCore::Physics::BulletSPlugin']]],
   ['simpleasyncresult',['SimpleAsyncResult',['../da/d5a/classWhiteCore_1_1Framework_1_1Utilities_1_1SimpleAsyncResult.html',1,'WhiteCore::Framework::Utilities']]],
+  ['simplechinesetranslation',['SimpleChineseTranslation',['../d6/d29/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1SimpleChineseTranslation.html',1,'WhiteCore::Modules::Web::Translators']]],
   ['simplerandomwind',['SimpleRandomWind',['../dc/dab/classWhiteCore_1_1Modules_1_1Wind_1_1Plugins_1_1SimpleRandomWind.html',1,'WhiteCore::Modules::Wind::Plugins']]],
   ['simprotection',['SimProtection',['../db/d4e/classWhiteCore_1_1Modules_1_1SimProtection_1_1SimProtection.html',1,'WhiteCore::Modules::SimProtection']]],
   ['simstats',['SimStats',['../da/db1/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1SimStats.html',1,'WhiteCore::Framework::ClientInterfaces']]],
@@ -76,9 +77,9 @@ var searchData=
   ['simulatorfeatures',['SimulatorFeatures',['../da/d7a/classWhiteCore_1_1Services_1_1SimulatorFeatures.html',1,'WhiteCore::Services']]],
   ['sittingobjectdata',['SittingObjectData',['../d4/d99/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1SittingObjectData.html',1,'WhiteCore::Framework::ClientInterfaces']]],
   ['skeletonpage',['SkeletonPage',['../dd/d81/classWhiteCore_1_1Modules_1_1Web_1_1SkeletonPage.html',1,'WhiteCore::Modules::Web']]],
+  ['skeletontranslation',['SkeletonTranslation',['../d8/dfb/classWhiteCore_1_1Modules_1_1Web_1_1Translators_1_1SkeletonTranslation.html',1,'WhiteCore::Modules::Web::Translators']]],
   ['skydata',['SkyData',['../d4/d86/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1WindlightDayCycle_1_1SkyData.html',1,'WhiteCore::Framework::ClientInterfaces::WindlightDayCycle']]],
   ['sleepframemonitor',['SleepFrameMonitor',['../d0/d80/classWhiteCore_1_1Modules_1_1Monitoring_1_1Monitors_1_1SleepFrameMonitor.html',1,'WhiteCore::Modules::Monitoring::Monitors']]],
-  ['slmapapipage',['SLMapAPIPage',['../da/d6c/classWhiteCore_1_1Modules_1_1Web_1_1SLMapAPIPage.html',1,'WhiteCore::Modules::Web']]],
   ['slutil',['SLUtil',['../d5/def/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1SLUtil.html',1,'WhiteCore::Framework::ClientInterfaces']]],
   ['smootharea',['SmoothArea',['../db/dbc/classWhiteCore_1_1Modules_1_1Terrain_1_1FloodBrushes_1_1SmoothArea.html',1,'WhiteCore::Modules::Terrain::FloodBrushes']]],
   ['smoothsphere',['SmoothSphere',['../dd/d55/classWhiteCore_1_1Modules_1_1Terrain_1_1PaintBrushes_1_1SmoothSphere.html',1,'WhiteCore::Modules::Terrain::PaintBrushes']]],
@@ -110,5 +111,5 @@ var searchData=
   ['syncmessageposterservice',['SyncMessagePosterService',['../de/d78/classWhiteCore_1_1Services_1_1SyncMessagePosterService.html',1,'WhiteCore::Services']]],
   ['syncmessagerecievedservice',['SyncMessageRecievedService',['../d5/d1a/classWhiteCore_1_1Services_1_1SyncMessageRecievedService.html',1,'WhiteCore::Services']]],
   ['systemaccountservice',['SystemAccountService',['../d5/dad/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemAccountService_1_1SystemAccountService.html',1,'WhiteCore::Services::GenericServices::SystemAccountService']]],
-  ['systemestateservice',['SystemEstateService',['../d7/d9b/classWhiteCore_1_1Modules_1_1Estate_1_1SystemEstateService.html',1,'WhiteCore::Modules::Estate']]]
+  ['systemestateservice',['SystemEstateService',['../da/d96/classWhiteCore_1_1Services_1_1GenericServices_1_1SystemEstateService_1_1SystemEstateService.html',1,'WhiteCore::Services::GenericServices::SystemEstateService']]]
 ];

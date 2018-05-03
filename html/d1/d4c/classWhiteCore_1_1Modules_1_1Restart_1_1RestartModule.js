@@ -8,7 +8,7 @@ var classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule =
     [ "RegionLoaded", "d1/d4c/classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule.html#a049a64454afdfa619d77e3b85ab8d407", null ],
     [ "RemoveRegion", "d1/d4c/classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule.html#abc94fd502e5d866d877fc832c25a0b1b", null ],
     [ "RestartScene", "d1/d4c/classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule.html#a09860daa954e82d7ca43f95f7d92c08b", null ],
-    [ "ScheduleRestart", "d1/d4c/classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule.html#aa734f1deeffdfda5f983eb65e9b1d481", null ],
+    [ "ScheduleRestart", "d1/d4c/classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule.html#a76e94c4e5e498c03b2bdbbfcf04d93cb", null ],
     [ "SerializeScene", "d1/d4c/classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule.html#a08443e2885bf60e48ffe18d3843de161", null ],
     [ "SetTimer", "d1/d4c/classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule.html#a9091bc1e86a258ec61a7097583ddedae", null ],
     [ "m_Alerts", "d1/d4c/classWhiteCore_1_1Modules_1_1Restart_1_1RestartModule.html#a398a1b76ed7bdb5364d055eb03ea7d82", null ],

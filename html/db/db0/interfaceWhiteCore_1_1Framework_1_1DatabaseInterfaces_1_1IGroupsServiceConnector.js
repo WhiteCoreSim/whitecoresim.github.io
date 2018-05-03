@@ -9,7 +9,7 @@ var interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConne
     [ "AddRoleToGroup", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html#a0a2a634e4ab6af3041d8f6c8bf3ddd55", null ],
     [ "CreateGroup", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html#aba3c01cd4ea2ad59f850d882decc20d1", null ],
     [ "EditGroupNotice", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html#a3b3126048262c29db85729d92b44f783", null ],
-    [ "FindGroups", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html#a0ae1233b43de98b1c0364ef7e250e2c4", null ],
+    [ "FindGroups", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html#ab71d9bfe545b99f1762198c4ac750f86", null ],
     [ "GetActiveProposals", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html#ad6db053a13289f6cc90a3e78f7d62cc2", null ],
     [ "GetAgentActiveGroup", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html#a0ce6f495be318293fe809b1fb6586e44", null ],
     [ "GetAgentGroupMemberData", "db/db0/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IGroupsServiceConnector.html#ad381301947b9d58d6152cce6c6560158", null ],

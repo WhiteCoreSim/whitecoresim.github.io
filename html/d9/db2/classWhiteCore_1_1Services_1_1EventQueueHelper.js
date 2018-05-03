@@ -4,7 +4,7 @@ var classWhiteCore_1_1Services_1_1EventQueueHelper =
     [ "buildEvent", "d9/db2/classWhiteCore_1_1Services_1_1EventQueueHelper.html#abc1255a79ecbea8cc18c2c2bc1b8b03e", null ],
     [ "ChatterboxInvitation", "d9/db2/classWhiteCore_1_1Services_1_1EventQueueHelper.html#af91a01d401c0f5fa3340e8ac36b87ee5", null ],
     [ "ChatterBoxSessionAgentListUpdates", "d9/db2/classWhiteCore_1_1Services_1_1EventQueueHelper.html#a6acdb3d8308f43add3e774bed3e86ca0", null ],
-    [ "ChatterBoxSessionAgentListUpdates", "d9/db2/classWhiteCore_1_1Services_1_1EventQueueHelper.html#a05cbd853dda671b1351cfd4572a821e9", null ],
+    [ "ChatterBoxSessionAgentListUpdates", "d9/db2/classWhiteCore_1_1Services_1_1EventQueueHelper.html#ad0ca8dc44b87762a0a5d8e9f1d9ec31c", null ],
     [ "ChatterBoxSessionStartReply", "d9/db2/classWhiteCore_1_1Services_1_1EventQueueHelper.html#a2663b14f22ea11cdd71ffdaea52f8c78", null ],
     [ "CrossRegion", "d9/db2/classWhiteCore_1_1Services_1_1EventQueueHelper.html#ad2d5b4af2bb988819f4705bf1eb328ec", null ],
     [ "DisableSimulator", "d9/db2/classWhiteCore_1_1Services_1_1EventQueueHelper.html#a90d0af25c3697ff197ccaad8cc5a3245", null ],

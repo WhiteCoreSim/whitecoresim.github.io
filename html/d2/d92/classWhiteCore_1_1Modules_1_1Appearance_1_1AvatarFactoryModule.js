@@ -14,7 +14,7 @@ var classWhiteCore_1_1Modules_1_1Appearance_1_1AvatarFactoryModule =
     [ "RemoveClient", "d2/d92/classWhiteCore_1_1Modules_1_1Appearance_1_1AvatarFactoryModule.html#aa25976edad118cbfeddc2cda931e51b2", null ],
     [ "RemoveRegion", "d2/d92/classWhiteCore_1_1Modules_1_1Appearance_1_1AvatarFactoryModule.html#a1e8c3def51a03ce606cba20799448128", null ],
     [ "RequestWearables", "d2/d92/classWhiteCore_1_1Modules_1_1Appearance_1_1AvatarFactoryModule.html#a6959fd5c78d9be9a9616f0cb4b808b3b", null ],
-    [ "SetAppearance", "d2/d92/classWhiteCore_1_1Modules_1_1Appearance_1_1AvatarFactoryModule.html#aa162e7f9aca42f98f8a9698da4a15fc4", null ],
+    [ "SetAppearance", "d2/d92/classWhiteCore_1_1Modules_1_1Appearance_1_1AvatarFactoryModule.html#ab30a8ce18d8ddfec6be85ae762fbd4dc", null ],
     [ "Name", "d2/d92/classWhiteCore_1_1Modules_1_1Appearance_1_1AvatarFactoryModule.html#a5b8af729ce4156bab2418bc699b69eb8", null ],
     [ "ReplaceableInterface", "d2/d92/classWhiteCore_1_1Modules_1_1Appearance_1_1AvatarFactoryModule.html#a90311f4ed6c02c60a883777315a139ee", null ]
 ];

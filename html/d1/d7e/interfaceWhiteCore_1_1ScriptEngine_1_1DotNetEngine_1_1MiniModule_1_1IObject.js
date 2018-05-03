@@ -5,7 +5,7 @@ var interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject 
     [ "Say", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a89c560a875e87258ff9698a4f412bb83", null ],
     [ "Children", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#aa8931fa8aeec144bfcce89ebf76ea208", null ],
     [ "CreatorId", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#accd0cf1cecf42f6836ed62fffec3c746", null ],
-    [ "Description", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a1224c43251347c85f3820aac13db1d64", null ],
+    [ "Description", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a0fe01d94cbff88c28bbb94c8e2f5fed4", null ],
     [ "Exists", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a29cc65bc08417aa51904b407cd63c32a", null ],
     [ "Inventory", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#ad14c7428a53c7ffe3eecdeb0f7e95462", null ],
     [ "IsAlwaysReturned", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a7c0ff9909e5c8013ca9d6b476f1b4324", null ],
@@ -27,10 +27,10 @@ var interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject 
     [ "Scale", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a72fa8660690ff8bc3f5ecdab05f16f75", null ],
     [ "Shape", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a423850975fd0988766f793084e9e51b6", null ],
     [ "SitTarget", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a45b69119bcdd266b36e2a5803f8f854b", null ],
-    [ "SitTargetText", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a7061679a9a63ad77edef412d4e75593c", null ],
+    [ "SitTargetText", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a6f06b323f7f9744744ca3ab213bbab29", null ],
     [ "Sound", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#ad351d84afa7620a1ea965c1e072ab48b", null ],
-    [ "Text", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a8243f3b4c855e27db0311d78d4b49bd4", null ],
-    [ "TouchText", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#abb28f8faf25761ff1e2987c76c4e78f2", null ],
+    [ "Text", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#a56c739a291877bb900dbc2161ceb4298", null ],
+    [ "TouchText", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#aa0a4a1aa469fd649ce7c483a4280b426", null ],
     [ "WorldRotation", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#af2ddba7d697e907be5a94a9822c8e65d", null ],
     [ "OnTouch", "d1/d7e/interfaceWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1MiniModule_1_1IObject.html#aa4b18843d68c8441bfa782c941788f49", null ]
 ];

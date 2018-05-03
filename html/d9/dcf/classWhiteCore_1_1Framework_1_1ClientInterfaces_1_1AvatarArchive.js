@@ -10,5 +10,6 @@ var classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarArchive =
     [ "IsPortable", "d9/dcf/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarArchive.html#ac2dfd2ed2549b13a0790869aaf4e3526", null ],
     [ "IsPublic", "d9/dcf/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarArchive.html#a9d26d3a162125a77ea94dfb2a1dd7360", null ],
     [ "ItemsMap", "d9/dcf/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarArchive.html#a438110a498dd65da6e2b68e4d5b1b7c0", null ],
+    [ "LocalSnapshot", "d9/dcf/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarArchive.html#a6a12c4ffd0f71561996c50b878dc4f00", null ],
     [ "Snapshot", "d9/dcf/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarArchive.html#ae3c7980a2ce0671740f4ff0a61709fbf", null ]
 ];

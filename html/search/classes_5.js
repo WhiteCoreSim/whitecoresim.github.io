@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['face',['Face',['../d5/d80/structWhiteCore_1_1Physics_1_1PrimMesher_1_1Face.html',1,'WhiteCore::Physics::PrimMesher']]],
-  ['face',['face',['../d5/d3a/structWhiteCore_1_1Modules_1_1WorldMap_1_1face.html',1,'WhiteCore::Modules::WorldMap']]],
+  ['face',['Face',['../d5/d80/structWhiteCore_1_1Physics_1_1PrimMesher_1_1Face.html',1,'WhiteCore.Physics.PrimMesher.Face'],['../d5/d3a/structWhiteCore_1_1Modules_1_1WorldMap_1_1face.html',1,'WhiteCore.Modules.WorldMap.face']]],
   ['facetri',['FaceTri',['../d7/d89/classWhiteCore_1_1Physics_1_1ConvexDecompositionDotNet_1_1FaceTri.html',1,'WhiteCore::Physics::ConvexDecompositionDotNet']]],
   ['factoryresetpage',['FactoryResetPage',['../de/d05/classWhiteCore_1_1Modules_1_1Web_1_1FactoryResetPage.html',1,'WhiteCore::Modules::Web']]],
   ['failedtomoveagentintonewregionrequest',['FailedToMoveAgentIntoNewRegionRequest',['../d3/dce/classWhiteCore_1_1Framework_1_1Services_1_1FailedToMoveAgentIntoNewRegionRequest.html',1,'WhiteCore::Framework::Services']]],

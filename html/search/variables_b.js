@@ -10,5 +10,6 @@ var searchData=
   ['lastlogout',['LastLogout',['../d8/dfc/classWhiteCore_1_1Framework_1_1Services_1_1UserInfo.html#aa15e241d473c1f1eb11a35c268ee43be',1,'WhiteCore::Framework::Services::UserInfo']]],
   ['latvian',['Latvian',['../d3/d53/classWhiteCore_1_1GoogleAPIs_1_1Language.html#aeb792970cb3379f6e1fd9aaf25e6b6bb',1,'WhiteCore::GoogleAPIs::Language']]],
   ['lithuanian',['Lithuanian',['../d3/d53/classWhiteCore_1_1GoogleAPIs_1_1Language.html#af8c73ef9ee75ffc0d154fb3a8991cb3d',1,'WhiteCore::GoogleAPIs::Language']]],
+  ['localsnapshot',['LocalSnapshot',['../d9/dcf/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1AvatarArchive.html#a6a12c4ffd0f71561996c50b878dc4f00',1,'WhiteCore::Framework::ClientInterfaces::AvatarArchive']]],
   ['log_5fasset_5fload_5fnotification_5finterval',['LOG_ASSET_LOAD_NOTIFICATION_INTERVAL',['../dd/d27/classWhiteCore_1_1Modules_1_1Archivers_1_1AssetsArchiver.html#a12445fb781a9d2d62f6e7b037d9c5e2f',1,'WhiteCore::Modules::Archivers::AssetsArchiver']]]
 ];

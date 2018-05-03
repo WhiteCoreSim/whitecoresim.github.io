@@ -16,6 +16,8 @@ var classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1EventData =
     [ "globalPos", "d8/de3/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1EventData.html#a79a5e2ce1dcb5ee344f24624c4c4a868", null ],
     [ "maturity", "d8/de3/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1EventData.html#a0afd70e6c5c1bb24d768be41ebdc1b3e", null ],
     [ "name", "d8/de3/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1EventData.html#a6f2aed32d4b88371f7f6c77392eafa77", null ],
+    [ "parcelId", "d8/de3/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1EventData.html#a33a687071ce891c2bc147a909f83a7a9", null ],
+    [ "regionId", "d8/de3/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1EventData.html#a4b3b9e088a82503a4093e27b4a46fb13", null ],
     [ "regionPos", "d8/de3/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1EventData.html#ac99c8d380cedff1e69df95a86b482e39", null ],
     [ "simName", "d8/de3/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1EventData.html#ac23111bb36dfa4c250033acc286d1552", null ]
 ];

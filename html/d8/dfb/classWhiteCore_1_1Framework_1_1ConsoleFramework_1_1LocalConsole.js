@@ -1,6 +1,7 @@
 var classWhiteCore_1_1Framework_1_1ConsoleFramework_1_1LocalConsole =
 [
     [ "Initialize", "d8/dfb/classWhiteCore_1_1Framework_1_1ConsoleFramework_1_1LocalConsole.html#a1dc6b2fcaa899b9809e46a8608be4832", null ],
+    [ "LocalInitialize", "d8/dfb/classWhiteCore_1_1Framework_1_1ConsoleFramework_1_1LocalConsole.html#a5cb2d43da056d91181f58fed868813e3", null ],
     [ "LockOutput", "d8/dfb/classWhiteCore_1_1Framework_1_1ConsoleFramework_1_1LocalConsole.html#aff83ab59caf321c7984e349e0cad2366", null ],
     [ "Output", "d8/dfb/classWhiteCore_1_1Framework_1_1ConsoleFramework_1_1LocalConsole.html#ab72fc17f13cd08c7b751fc92ab9b55f5", null ],
     [ "ReadLine", "d8/dfb/classWhiteCore_1_1Framework_1_1ConsoleFramework_1_1LocalConsole.html#ac206e607ffa1287b80d051d28301aa4f", null ],

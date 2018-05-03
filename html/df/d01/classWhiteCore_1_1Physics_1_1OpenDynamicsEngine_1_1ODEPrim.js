@@ -50,6 +50,7 @@ var classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPrim =
     [ "VehicleFloatParam", "df/d01/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPrim.html#ac8c0e46d6fd49d7971b41b4cdd5693da", null ],
     [ "VehicleRotationParam", "df/d01/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPrim.html#a55998ca81f65a34154ac33b495a3d9ab", null ],
     [ "VehicleVectorParam", "df/d01/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPrim.html#a830bf3f0d292709c120c5338397dea56", null ],
+    [ "_primIsRemovedLock", "df/d01/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPrim.html#ab24a7570f9d2cba218a17d161e0e2c43", null ],
     [ "childPrim", "df/d01/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPrim.html#a165adc58e5545f4f207ecd9007d81424", null ],
     [ "childrenPrim", "df/d01/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPrim.html#a8e860ee911b263b07c0c10f0725ed7c8", null ],
     [ "m_collisionscore", "df/d01/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPrim.html#ae51e4ddff6a891f7f95692de287f5e77", null ],

@@ -4,6 +4,7 @@ var interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceCo
     [ "AddRegion", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a3d621cd2bade40eb0388d7a62bee611d", null ],
     [ "ClearRegion", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#aa8401e2af11fbe83d8ffe83cc63eb063", null ],
     [ "CreateEvent", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a2fc3a281077b9455dc7b2f73e20873e8", null ],
+    [ "DeleteEvent", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a483c34afaaef2c5108685204a344fd9f", null ],
     [ "FindAllEventsInRegion", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#af9d5df6567f89a8194f6deabd4c7e2d9", null ],
     [ "FindClassifieds", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a9677d11062a757641d3c42499be9aead", null ],
     [ "FindEvents", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#ac31f0185fdc23783934e74763fe2b66a", null ],
@@ -11,11 +12,14 @@ var interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceCo
     [ "FindLandForSale", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a5c6404e6a56cc715c40dbcba8a600087", null ],
     [ "FindLandForSaleInRegion", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#af284ebabb81e362a8fdc1ee666c2302f", null ],
     [ "FindPopularPlaces", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a0c0fbda340b3fd867bc774addfbf025a", null ],
+    [ "GetAllClassifieds", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a1654c85b881714c95b51cf395a2be3b8", null ],
+    [ "GetAllEvents", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#aab5dc5e2884e5c55cba597479db083ac", null ],
     [ "GetClassifiedByID", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#ad1d2407cd4e95ae24b978bedd1e390eb", null ],
     [ "GetClassifiedsInRegion", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a0097560be418a3805ca94d88ab125af6", null ],
     [ "GetEventInfo", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#accc77a7c69e39aa7322a429dedb862c5", null ],
     [ "GetEventNotifications", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#af3770e0fe6542bdcf41b8780ece13d98", null ],
     [ "GetEvents", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a869ed3d99719c44c43463f0411e6e500", null ],
+    [ "GetEventsList", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a4bed10eb9dd94dcb75239b164b871ae9", null ],
     [ "GetMaxEventID", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a098accaa93ea1cd32ba2db097259908f", null ],
     [ "GetNumberOfEvents", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a16e8549f6bb018193e4b8d5a3c0e92b5", null ],
     [ "GetNumberOfParcelsByRegion", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a8296a4592653f276de980b790820abf4", null ],
@@ -26,5 +30,7 @@ var interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceCo
     [ "GetParcelInfo", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#aa88825222a52630b3e20ebcf9caa9ee6", null ],
     [ "GetParcelsByRegion", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a5ed15ece424c2a59281d0531239eb71a", null ],
     [ "GetParcelsWithNameByRegion", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a551638711e6c3f78f89209682aa7c6c5", null ],
-    [ "RemoveEventNofication", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a60728b052d13739e054539cd7b4c8f3f", null ]
+    [ "GetUserEvents", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#ac3555f7f5d89c3a73792f572b4d6a050", null ],
+    [ "RemoveEventNofication", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#a60728b052d13739e054539cd7b4c8f3f", null ],
+    [ "UpdateAddEvent", "d8/db9/interfaceWhiteCore_1_1Framework_1_1DatabaseInterfaces_1_1IDirectoryServiceConnector.html#ad21e3e2d74b174ed6141d003331d3422", null ]
 ];

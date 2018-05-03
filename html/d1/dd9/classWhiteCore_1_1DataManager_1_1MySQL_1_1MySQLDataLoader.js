@@ -24,8 +24,8 @@ var classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader =
     [ "InsertMultiple", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#ada275ffd9438a520bc430a2d8c7cc9e8", null ],
     [ "InsertSelect", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#ab969f6d560256a5ce8a0f4edd5939b71", null ],
     [ "Query", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a3774e31d1b5a9a13a931013967b0d720", null ],
-    [ "Query", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a69d047e1c9b650bc40dd217c81e93b80", null ],
-    [ "Query", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a0b7c92ed5099758ab8e04cde6d8d4719", null ],
+    [ "Query", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#abfe5c5dba9085a27efc87bb7c5a0e6ec", null ],
+    [ "Query", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a491fef6493dd43b5bfdab4966c1072c8", null ],
     [ "QueryData", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a424bcbff5048cf4e1e3f759c4c8ce02d", null ],
     [ "QueryData", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#ad195a9ad4068bc8edaf1b88e1692c423", null ],
     [ "QueryFullData", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a000f1e76b710baf85ed095afa2f3c7a3", null ],
@@ -34,7 +34,7 @@ var classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader =
     [ "QueryNames", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a66c7cbc4e7767c8597530881780bbad3", null ],
     [ "Replace", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a91ae86c0827a32812e675fa33ab1f9b8", null ],
     [ "TableExists", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#ab60c3cc93d836aa7b4d091d75935b8d6", null ],
-    [ "Update", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a786f37f248a3047a9995a60230e7f3cc", null ],
+    [ "Update", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#ab43683b352523db1d083fef8555fbebe", null ],
     [ "UpdateTable", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a7458ed22e0a5c7a5019c2f2783392c61", null ],
     [ "Identifier", "d1/dd9/classWhiteCore_1_1DataManager_1_1MySQL_1_1MySQLDataLoader.html#a13780032d5b0ffa55e22acf671f0f33e", null ]
 ];

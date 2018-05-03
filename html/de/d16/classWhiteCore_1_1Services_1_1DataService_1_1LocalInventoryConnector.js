@@ -26,6 +26,5 @@ var classWhiteCore_1_1Services_1_1DataService_1_1LocalInventoryConnector =
     [ "GD", "de/d16/classWhiteCore_1_1Services_1_1DataService_1_1LocalInventoryConnector.html#a25278e6578d156cf10cf710e0bffa001", null ],
     [ "m_foldersrealm", "de/d16/classWhiteCore_1_1Services_1_1DataService_1_1LocalInventoryConnector.html#ae9b8e02f47e8e361087c1d1b0b4e9ca7", null ],
     [ "m_itemsrealm", "de/d16/classWhiteCore_1_1Services_1_1DataService_1_1LocalInventoryConnector.html#a7962e9c037b57c8e981e94238e584665", null ],
-    [ "m_registry", "de/d16/classWhiteCore_1_1Services_1_1DataService_1_1LocalInventoryConnector.html#a1b453e403eacaf33b13c87ffc65871f3", null ],
     [ "Name", "de/d16/classWhiteCore_1_1Services_1_1DataService_1_1LocalInventoryConnector.html#ad5340191fb76fc349d75676eab0f22ab", null ]
 ];

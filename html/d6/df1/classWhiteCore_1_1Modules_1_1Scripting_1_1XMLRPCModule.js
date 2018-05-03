@@ -22,6 +22,7 @@ var classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule =
     [ "ServerStarted", "d6/df1/classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule.html#a5edaaa51b07115cb2c9b460356d380f7", null ],
     [ "Start", "d6/df1/classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule.html#ae35bb6e3b6ab2dcbb4e70d496685cb95", null ],
     [ "XmlRpcRemoteData", "d6/df1/classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule.html#aa192eb61f4fc737ac22f3c9b73a16322", null ],
+    [ "m_server", "d6/df1/classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule.html#a2b45d2b4bfff4fced2d4c77a594672d1", null ],
     [ "Name", "d6/df1/classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule.html#a8bde43a22a391562fc50957a32848298", null ],
     [ "Port", "d6/df1/classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule.html#adeed1870733f6abbb33b842751659290", null ],
     [ "ReplaceableInterface", "d6/df1/classWhiteCore_1_1Modules_1_1Scripting_1_1XMLRPCModule.html#a2af80ca05f0d43f816497099c00baee7", null ]

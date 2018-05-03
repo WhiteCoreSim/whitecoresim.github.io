@@ -29,6 +29,7 @@ var searchData=
   ['isintransit',['IsInTransit',['../de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#a04b1da0d3907ba16e7ea1848b6c964b5',1,'WhiteCore::Framework::PresenceInfo::IScenePresence']]],
   ['islocalconnector',['IsLocalConnector',['../d0/d03/interfaceWhiteCore_1_1Framework_1_1Services_1_1IUserAccountService.html#ab0128ac4ec28495081e02e230ef36df2',1,'WhiteCore::Framework::Services::IUserAccountService']]],
   ['isloggingout',['IsLoggingOut',['../dc/d61/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IClientAPI.html#a49e81d4084489ee752ae46b9015a4932',1,'WhiteCore::Framework::PresenceInfo::IClientAPI']]],
+  ['isnpcagent',['IsNpcAgent',['../de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#a1ed0631fabd94a78976898539b48c40c',1,'WhiteCore::Framework::PresenceInfo::IScenePresence']]],
   ['isreadonly',['IsReadOnly',['../dc/da2/classWhiteCore_1_1BotManager_1_1AStar_1_1Heap.html#a3a5f3e0509f3317508e0f35ca20c0d9e',1,'WhiteCore::BotManager::AStar::Heap']]],
   ['isroot',['IsRoot',['../de/d93/classWhiteCore_1_1Region_1_1SceneObjectPart.html#a6f7c95f981edb311813ac093bdf19a41',1,'WhiteCore::Region::SceneObjectPart']]],
   ['isrunning',['IsRunning',['../d8/d96/classWhiteCore_1_1ClientStack_1_1UDPBase.html#ac0d59eff3c666859ec00e31db7b79ed1',1,'WhiteCore::ClientStack::UDPBase']]],

@@ -7,7 +7,7 @@ var classWhiteCore_1_1Services_1_1SQLServices_1_1InventoryService_1_1LibraryServ
     [ "Start", "d2/dc5/classWhiteCore_1_1Services_1_1SQLServices_1_1InventoryService_1_1LibraryService.html#a7eea13e1dd6d27ea3579d83e5894add7", null ],
     [ "m_inventoryService", "d2/dc5/classWhiteCore_1_1Services_1_1SQLServices_1_1InventoryService_1_1LibraryService.html#a9d95b88f210bc7bef0c78b6b11969900", null ],
     [ "LibraryName", "d2/dc5/classWhiteCore_1_1Services_1_1SQLServices_1_1InventoryService_1_1LibraryService.html#ae7ddca3e3fc54b41d443972b52ec2dde", null ],
-    [ "LibraryOwner", "d2/dc5/classWhiteCore_1_1Services_1_1SQLServices_1_1InventoryService_1_1LibraryService.html#a471bc027c1f2e355ae48f4e7bf4a8d84", null ],
     [ "LibraryOwnerName", "d2/dc5/classWhiteCore_1_1Services_1_1SQLServices_1_1InventoryService_1_1LibraryService.html#aa41b7e15104be0eb18a5d2f851d6f64b", null ],
+    [ "LibraryOwnerUUID", "d2/dc5/classWhiteCore_1_1Services_1_1SQLServices_1_1InventoryService_1_1LibraryService.html#a5df95cfa0600c9043cace26ca1f12214", null ],
     [ "LibraryRootFolderID", "d2/dc5/classWhiteCore_1_1Services_1_1SQLServices_1_1InventoryService_1_1LibraryService.html#a5e1fbef8170a5f8ae58d9a394c4660e2", null ]
 ];

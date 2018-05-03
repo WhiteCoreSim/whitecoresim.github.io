@@ -24,6 +24,7 @@ var interfaceWhiteCore_1_1Framework_1_1Modules_1_1ICommandConsole =
     [ "ReadConsole", "d7/d1e/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ICommandConsole.html#a51f30514269c2eacf1d373a2b68e0b15", null ],
     [ "RunCommand", "d7/d1e/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ICommandConsole.html#a4bfb192209f0f32248d241f21bb7f462", null ],
     [ "Ticker", "d7/d1e/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ICommandConsole.html#af6ae9bf507793119ef9b089d7741d329", null ],
+    [ "Ticker", "d7/d1e/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ICommandConsole.html#aa57e5deed34eee6bc1528b3ac4f7ae47", null ],
     [ "Trace", "d7/d1e/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ICommandConsole.html#a94f482e43d09d20d67d75e0288f09602", null ],
     [ "TraceFormat", "d7/d1e/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ICommandConsole.html#ae56d5bc365cffe467a0e69849f736796", null ],
     [ "UnlockOutput", "d7/d1e/interfaceWhiteCore_1_1Framework_1_1Modules_1_1ICommandConsole.html#ab0d097861ff974c565a1cfc98186959a", null ],

@@ -16,7 +16,7 @@ var classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService =
     [ "GetRegionFlags", "d4/d55/classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService.html#a3e4fc916ffd5464c48e7864c599594f6", null ],
     [ "GetRegionRange", "d4/d55/classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService.html#a1a5dd08bd6285e6023a0382f9f9be670", null ],
     [ "GetRegionRange", "d4/d55/classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService.html#a3dca5c440cc5a6d4059b6841e8576bb3", null ],
-    [ "GetRegionsByName", "d4/d55/classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService.html#a7d0207c34f7e1c48d7a49eb84f225bbc", null ],
+    [ "GetRegionsByName", "d4/d55/classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService.html#ab88c80d79198a80dd8f39b680bb4c187", null ],
     [ "GetRegionsByNameCount", "d4/d55/classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService.html#a49eb15ae844b7c6ad7c1c89c186a459e", null ],
     [ "GetRegionViewSize", "d4/d55/classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService.html#a35c589eadd4c3f7902c28c665ea32047", null ],
     [ "GetSafeRegions", "d4/d55/classWhiteCore_1_1Services_1_1SQLServices_1_1GridService_1_1GridService.html#add17b0f85c2e8ccfb016e1a6a0f0267a", null ],

@@ -3,7 +3,7 @@ var classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api =
     [ "Copy", "de/d51/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api.html#afac720f398e23014e1ba7b7d13e32e8e", null ],
     [ "Dispose", "de/d51/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api.html#a9123e7b9e790c31441ced2513fe28f73", null ],
     [ "Initialize", "de/d51/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api.html#a4f51caee44a027aa9e66bf6020d4af95", null ],
-    [ "InitializeLifetimeService", "de/d51/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api.html#ad4c3672b97823e0580963fcc6988fab3", null ],
+    [ "InitializeLifetimeService", "de/d51/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api.html#a98900905cea878ab228e7c22187467da", null ],
     [ "modError", "de/d51/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api.html#ad6647cb2ddc8182153ef4243aa309633", null ],
     [ "modSendCommand", "de/d51/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api.html#ad55c240e7de570f6c09d6d67a1da207e", null ],
     [ "modShoutError", "de/d51/classWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1APIs_1_1MOD__Api.html#acc85da708b7f5de98a9097d83a995760", null ],

@@ -1,15 +1,15 @@
 var classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo =
 [
-    [ "PresenceInfoFlags", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eede", [
-      [ "Clean", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedea37d12e2cfbef6e6105297374d02f3998", null ],
-      [ "Suspected", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedeacb608a437a9d44ab467b5138e562e14f", null ],
-      [ "Known", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedea2f5650e484fa195949ac6c8d11dca4fd", null ],
-      [ "SuspectedAltAccount", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedea4062ca61d593127c563bf52d2a1d4291", null ],
-      [ "SuspectedAltAccountOfKnown", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedeae4d24d859dbb2a797d099638437dc560", null ],
-      [ "SuspectedAltAccountOfSuspected", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedea79a0c510c0b70aba6482761cfd5f96c7", null ],
-      [ "KnownAltAccountOfKnown", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedea1f3924b0d447129d984ed9b57b60e921", null ],
-      [ "KnownAltAccountOfSuspected", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedeaddf384dc7da7545fe506e249fde55f6d", null ],
-      [ "Banned", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a64c40f280135509bf623793d9337eedeaa6f2b2df29609876b609c318bdbdf9a1", null ]
+    [ "PresenceInfoFlags", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919", [
+      [ "Clean", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919a37d12e2cfbef6e6105297374d02f3998", null ],
+      [ "Suspected", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919acb608a437a9d44ab467b5138e562e14f", null ],
+      [ "Known", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919a2f5650e484fa195949ac6c8d11dca4fd", null ],
+      [ "SuspectedAltAccount", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919a4062ca61d593127c563bf52d2a1d4291", null ],
+      [ "SuspectedAltAccountOfKnown", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919ae4d24d859dbb2a797d099638437dc560", null ],
+      [ "SuspectedAltAccountOfSuspected", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919a79a0c510c0b70aba6482761cfd5f96c7", null ],
+      [ "KnownAltAccountOfKnown", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919a1f3924b0d447129d984ed9b57b60e921", null ],
+      [ "KnownAltAccountOfSuspected", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919addf384dc7da7545fe506e249fde55f6d", null ],
+      [ "Banned", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a8aeeaa509acd93127d0a8e7b31b90919aa6f2b2df29609876b609c318bdbdf9a1", null ]
     ] ],
     [ "AgentID", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#a734e0d5fca3e77d5c79ff4cecac45781", null ],
     [ "Flags", "da/dd2/classWhiteCore_1_1Modules_1_1Ban_1_1PresenceInfo.html#ad2b50118abb97ce445c19e26f2fe6d21", null ],

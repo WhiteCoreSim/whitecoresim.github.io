@@ -29,6 +29,6 @@ var interfaceWhiteCore_1_1Framework_1_1SceneInfo_1_1Entities_1_1IEntityInventory
     [ "SaveScriptStateSaves", "d4/d08/interfaceWhiteCore_1_1Framework_1_1SceneInfo_1_1Entities_1_1IEntityInventory.html#a908cd6af9fc757ce0f870f1d7936984a", null ],
     [ "UpdateInventoryItem", "d4/d08/interfaceWhiteCore_1_1Framework_1_1SceneInfo_1_1Entities_1_1IEntityInventory.html#a995be0d4f8f4c70be8ca950c9e06ad4b", null ],
     [ "UpdateInventoryItem", "d4/d08/interfaceWhiteCore_1_1Framework_1_1SceneInfo_1_1Entities_1_1IEntityInventory.html#a64700f44b1f42f1d2961b54cb6c85bd8", null ],
-    [ "UpdateScriptInstance", "d4/d08/interfaceWhiteCore_1_1Framework_1_1SceneInfo_1_1Entities_1_1IEntityInventory.html#abbcef69bb55953096bfd42c7890c18c7", null ],
+    [ "UpdateScriptInstance", "d4/d08/interfaceWhiteCore_1_1Framework_1_1SceneInfo_1_1Entities_1_1IEntityInventory.html#a126e2044abd2d0e3766b6e67c4c0a76b", null ],
     [ "HasInventoryChanged", "d4/d08/interfaceWhiteCore_1_1Framework_1_1SceneInfo_1_1Entities_1_1IEntityInventory.html#a1c05bbd04d5134dec9c199466eeaf259", null ]
 ];

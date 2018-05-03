@@ -11,6 +11,7 @@ var interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBotManager =
     [ "GetOwner", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBotManager.html#acf68ae3757db3c12d4f9adaee2c6d3a6", null ],
     [ "GetPosition", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBotManager.html#ae8fc2a5c4deb10d1cea69fcf4f9831c3", null ],
     [ "GetRotation", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBotManager.html#a25f588cafb43b90c9e5d0d77e1bc522e", null ],
+    [ "IsNpcAgent", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBotManager.html#a90858a6b766028348ff61d905f5b7336", null ],
     [ "MoveToTarget", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBotManager.html#abab6f937f2cb53a7ad651e1e311eb8e0", null ],
     [ "PauseMovement", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBotManager.html#a6a46bdeefb2f2830a694e9a9d4395d28", null ],
     [ "RemoveAvatar", "d0/dad/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBotManager.html#affbf9ffc139f2738b22ce2f1b8754959", null ],

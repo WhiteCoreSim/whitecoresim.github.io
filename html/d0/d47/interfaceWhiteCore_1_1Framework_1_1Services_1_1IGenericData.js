@@ -11,8 +11,8 @@ var interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData =
     [ "Insert", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#acd759e0f3751750582623a895af63da4", null ],
     [ "InsertMultiple", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a7bbc984bc4a593919ef1aaf7f0b18523", null ],
     [ "InsertSelect", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#ad4fa2cf24f2c77ef1d28d13783e0ada5", null ],
-    [ "Query", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#acc33d02dd542f876404088f498e0159b", null ],
-    [ "Query", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a6b97fa1dbd8a90e74eafcede0d704896", null ],
+    [ "Query", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a3089563e77da16a32aefcd7ebc692293", null ],
+    [ "Query", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a4fdd4f6ed1f5c42cf5964badbc565ed8", null ],
     [ "QueryData", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a210532d8b473dd63bfb5e1b6c0dfa151", null ],
     [ "QueryData", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a0b7bd76546fea08cd170e1c47c7de185", null ],
     [ "QueryFullData", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a877dc20ca2e9349300e8d129b1d1aa27", null ],
@@ -20,5 +20,5 @@ var interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData =
     [ "QueryNames", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#aeb4ed363a4599c1a2b66498f8a3f60b2", null ],
     [ "QueryNames", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a7ef80df145b3b446c2ed43f800c5466b", null ],
     [ "Replace", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a21d327134dfdbf2d73159618cac9972b", null ],
-    [ "Update", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a34d7f7a2169fdb480b379f64a0df3a46", null ]
+    [ "Update", "d0/d47/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGenericData.html#a08fa2b3bf7c62e296f367491bd122a18", null ]
 ];

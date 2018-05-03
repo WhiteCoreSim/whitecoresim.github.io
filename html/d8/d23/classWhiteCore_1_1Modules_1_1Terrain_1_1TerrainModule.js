@@ -46,7 +46,7 @@ var classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule =
     [ "UpdateRevertWaterMap", "d8/d23/classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule.html#a06977cd07013f4952694f33d6ce95a02", null ],
     [ "UpdateWaterHeight", "d8/d23/classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule.html#af6cc6d60a3ee5fc04aa26432137a1509", null ],
     [ "m_noTerrain", "d8/d23/classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule.html#a3fda3e43590f6720e38e3f8b23b22ac5", null ],
-    [ "m_terrainPatchesSent", "d8/d23/classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule.html#a5a4cca06855149cdbb6188d2bb536eb6", null ],
+    [ "m_terrainPatchesSent", "d8/d23/classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule.html#ac1fdcc6b09158b5f9e3d90e67557ae88", null ],
     [ "m_use3DWater", "d8/d23/classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule.html#a0b568b71aaf5b6cd2117539e71f592e0", null ],
     [ "Name", "d8/d23/classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule.html#a57677057e3fe1443addb323f03e329d7", null ],
     [ "ReplaceableInterface", "d8/d23/classWhiteCore_1_1Modules_1_1Terrain_1_1TerrainModule.html#afef2d0180b2e793be5be077ab7080471", null ],

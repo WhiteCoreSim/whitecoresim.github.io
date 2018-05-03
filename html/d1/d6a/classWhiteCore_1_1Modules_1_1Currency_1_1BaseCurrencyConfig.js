@@ -3,7 +3,7 @@ var classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig =
     [ "BaseCurrencyConfig", "d1/d6a/classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig.html#a6bb93ecfb7b6e31e74dd4a2fdb3151f5", null ],
     [ "BaseCurrencyConfig", "d1/d6a/classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig.html#a55c0f571749e1d960992e988a45fcf5f", null ],
     [ "BaseCurrencyConfig", "d1/d6a/classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig.html#a23941b15b6718bbd2002b1b33fc4cc71", null ],
-    [ "FromOSD", "d1/d6a/classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig.html#a3290bf1d986439173572f2339c066e97", null ],
+    [ "FromOSD", "d1/d6a/classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig.html#a49ec1056383cbebceca97e9c807343e6", null ],
     [ "ToOSD", "d1/d6a/classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig.html#a030d36a22aded40e6077f67d56eb17f4", null ],
     [ "AdditionAmount", "d1/d6a/classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig.html#adb2ea46e88cc58dd855a807ba38c709e", null ],
     [ "AdditionPercentage", "d1/d6a/classWhiteCore_1_1Modules_1_1Currency_1_1BaseCurrencyConfig.html#a123fd2708fe0c784b2a50bebb6d1fa2b", null ],

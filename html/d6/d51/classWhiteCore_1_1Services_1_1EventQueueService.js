@@ -2,7 +2,7 @@ var classWhiteCore_1_1Services_1_1EventQueueService =
 [
     [ "ChatterboxInvitation", "d6/d51/classWhiteCore_1_1Services_1_1EventQueueService.html#a31c9f7ee1c391dcdd1b46818a5cf0532", null ],
     [ "ChatterBoxSessionAgentListUpdates", "d6/d51/classWhiteCore_1_1Services_1_1EventQueueService.html#a1cc71366a9f875da50cb7b124afc55e1", null ],
-    [ "ChatterBoxSessionAgentListUpdates", "d6/d51/classWhiteCore_1_1Services_1_1EventQueueService.html#af272786ae27567116ee162cacc4e2cd0", null ],
+    [ "ChatterBoxSessionAgentListUpdates", "d6/d51/classWhiteCore_1_1Services_1_1EventQueueService.html#a5ec349e071d38d3ab16c9b86999dc43e", null ],
     [ "ChatterBoxSessionStartReply", "d6/d51/classWhiteCore_1_1Services_1_1EventQueueService.html#a40c22ac639fd44ff57c4e40b5b0dcdec", null ],
     [ "CrossRegion", "d6/d51/classWhiteCore_1_1Services_1_1EventQueueService.html#a1513897b3de82b64c044367ea93db352", null ],
     [ "DisableSimulator", "d6/d51/classWhiteCore_1_1Services_1_1EventQueueService.html#a020a5960bf915c465c2d36bc3353eb2d", null ],

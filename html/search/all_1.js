@@ -120,5 +120,5 @@ var searchData=
   ['buyobject',['BuyObject',['../dc/d02/interfaceWhiteCore_1_1Framework_1_1Modules_1_1IBuySellModule.html#a1b8dd6e0f7db2e4af0863229b2400666',1,'WhiteCore.Framework.Modules.IBuySellModule.BuyObject()'],['../d0/d91/classWhiteCore_1_1Modules_1_1Entities_1_1BuySell_1_1BuySellModule.html#a35750bd9072d1a25bcd06e7d98963793',1,'WhiteCore.Modules.Entities.BuySell.BuySellModule.BuyObject()']]],
   ['buysellmodule',['BuySellModule',['../d0/d91/classWhiteCore_1_1Modules_1_1Entities_1_1BuySell_1_1BuySellModule.html',1,'WhiteCore::Modules::Entities::BuySell']]],
   ['bytessincelastack',['BytesSinceLastACK',['../dc/d93/classWhiteCore_1_1ClientStack_1_1LLUDPClient.html#ad8d750f58ffbf4a81cc6781c44be1e72',1,'WhiteCore::ClientStack::LLUDPClient']]],
-  ['bytestouint64big',['BytesToUInt64Big',['../df/d9f/classWhiteCore_1_1Framework_1_1Utilities_1_1Util.html#a88bde66eb44188fc1ef2db0c9aea9ed6',1,'WhiteCore::Framework::Utilities::Util']]]
+  ['bytestouint64big',['BytesToUInt64Big',['../df/d9f/classWhiteCore_1_1Framework_1_1Utilities_1_1Util.html#a3857426d6f00407140f4649d1115f24c',1,'WhiteCore::Framework::Utilities::Util']]]
 ];

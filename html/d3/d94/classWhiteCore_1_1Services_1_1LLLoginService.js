@@ -1,6 +1,6 @@
 var classWhiteCore_1_1Services_1_1LLLoginService =
 [
-    [ "AddClassifiedCategory", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#adfd013c5a15e536f1f69ae031b804074", null ],
+    [ "AddClassifiedCategory", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#ae06cf425bb258ef03c8ee50e31b7a065", null ],
     [ "FindDestination", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#a65a1ceb1e13bee729ba99028a607a088", null ],
     [ "FinishedStartup", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#af8b3cf1b99476670b7c215316d384733", null ],
     [ "FixCurrentOutFitFolder", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#a3b697834081582ab55a1a326b2a47eb7", null ],
@@ -12,7 +12,7 @@ var classWhiteCore_1_1Services_1_1LLLoginService =
     [ "ReadClassifiedValues", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#a3a80ccea0de23051ca17c78ed1d5c5ca", null ],
     [ "ReadEventValues", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#a120ba25ea97d7464fcaa2eceb5d99f57", null ],
     [ "RegisterCommands", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#ae1fabfaaaa6f0a39722a7c3fb6455b5a", null ],
-    [ "SetEventCategories", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#a4ba9e897b7b05412755ad98266d1b49a", null ],
+    [ "SetEventCategories", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#ab1531e536a9d8ab80aba14d98c303833", null ],
     [ "SetLevel", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#a997f7cd1fc6037f4d797de4eea472deb", null ],
     [ "Start", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#a7bc01dbe742fd681e3bf08f7c60f8bbd", null ],
     [ "TryFindGridRegionForAgentLogin", "d3/d94/classWhiteCore_1_1Services_1_1LLLoginService.html#a7eef50bdad6fdb9326b600e7055f59f3", null ],

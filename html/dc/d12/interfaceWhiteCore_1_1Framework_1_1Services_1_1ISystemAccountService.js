@@ -6,6 +6,8 @@ var interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService =
     [ "BankerUUID", "dc/d12/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService.html#ad8f36b23bc3a791d8f72d6b3da9e5d31", null ],
     [ "GovernorName", "dc/d12/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService.html#a503001db6b43d74fbb8f70430678383d", null ],
     [ "GovernorUUID", "dc/d12/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService.html#a364324754b135df070404ffae17f1167", null ],
+    [ "LibraryOwnerName", "dc/d12/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService.html#a659f1ce7d50a67493d06e596cbba4e65", null ],
+    [ "LibraryOwnerUUID", "dc/d12/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService.html#ae2107d62ca564aa2d287c94d458a8de6", null ],
     [ "MarketplaceOwnerName", "dc/d12/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService.html#a065a0cde82cad562ab90ab4b3d93535d", null ],
     [ "MarketplaceOwnerUUID", "dc/d12/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService.html#adf44c56a7f92be81c8dc81e16340438a", null ],
     [ "SystemEstateOwnerName", "dc/d12/interfaceWhiteCore_1_1Framework_1_1Services_1_1ISystemAccountService.html#a2dce6c9bfd52b3614ef2393e03bcc18d", null ],

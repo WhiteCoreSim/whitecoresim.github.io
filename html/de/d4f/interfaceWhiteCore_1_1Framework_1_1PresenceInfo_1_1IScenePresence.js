@@ -54,6 +54,7 @@ var interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence =
     [ "IsChildAgent", "de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#ab94618566f00cedf858634112509ac4b", null ],
     [ "IsDeleted", "de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#af4d48288ba77c4569410b75eed9fcead", null ],
     [ "IsInTransit", "de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#a04b1da0d3907ba16e7ea1848b6c964b5", null ],
+    [ "IsNpcAgent", "de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#a1ed0631fabd94a78976898539b48c40c", null ],
     [ "IsTainted", "de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#a74dd330c61ba9f14ed895bbca3907d11", null ],
     [ "LastKnownAllowedPosition", "de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#ad7c585560029201c67319ca977d191d2", null ],
     [ "Lookat", "de/d4f/interfaceWhiteCore_1_1Framework_1_1PresenceInfo_1_1IScenePresence.html#ac918f318e35b474a88eac599f8060661", null ],

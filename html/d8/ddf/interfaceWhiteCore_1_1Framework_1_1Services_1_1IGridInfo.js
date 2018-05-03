@@ -1,5 +1,6 @@
 var interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridInfo =
 [
+    [ "GetGridInfoHashtable", "d8/ddf/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridInfo.html#ab2c36a2bbd15a77a1f58e4edbc5e8f88", null ],
     [ "UpdateGridInfo", "d8/ddf/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridInfo.html#aec77786425b7b72003ed1011f8ba31a9", null ],
     [ "AgentAppearanceURI", "d8/ddf/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridInfo.html#aeaef37509ae1fb664d2bd3ac3ac95e67", null ],
     [ "GridAboutURI", "d8/ddf/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridInfo.html#afcf267bd0dc7e90c552aa0ba8ae5a17b", null ],

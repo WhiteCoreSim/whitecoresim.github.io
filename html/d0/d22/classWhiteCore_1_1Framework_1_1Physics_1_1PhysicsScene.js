@@ -1,6 +1,6 @@
 var classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene =
 [
-    [ "AddAvatar", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#aa87fd4317b3f7556bb5966568618e08e", null ],
+    [ "AddAvatar", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#a70b98cb2b759ca04ce56db4f812c766a", null ],
     [ "AddGravityPoint", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#a64c1d169e3ecd550007ca1e5f278aaa9", null ],
     [ "AddPrimShape", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#a7b9d9916ba99eb615f713f38bdc595bd", null ],
     [ "Dispose", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#aa181767b12bde8e71634e348b15f0c1f", null ],
@@ -15,8 +15,8 @@ var classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene =
     [ "RemoveAvatar", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#a694bf9928aaff3803008d00bf1d42c05", null ],
     [ "RemovePrim", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#a402793f808bdce38653ffeb81e94f146", null ],
     [ "SetGravityForce", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#af9a99dec70d772c5ee18f293418ecdc9", null ],
-    [ "SetTerrain", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#affe7f27fb76aa825f44340a8caf20469", null ],
-    [ "SetWaterLevel", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#ab85cc47ac722a936018641d3b716a206", null ],
+    [ "SetTerrain", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#aaea2b81a43d52d015c8b8aeba6230128", null ],
+    [ "SetWaterLevel", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#acf52c8aada34a5c8a193d1e1153108c1", null ],
     [ "Simulate", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#a16776d5f56554a6afde573f082dff5a9", null ],
     [ "SupportsRayCast", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#adaf1b6eef382018dc0cc654fbe10eb86", null ],
     [ "UpdatesLoop", "d0/d22/classWhiteCore_1_1Framework_1_1Physics_1_1PhysicsScene.html#a9cb853d39e0c2883a7f945b11b197082", null ],

@@ -8,6 +8,7 @@ var interfaceWhiteCore_1_1Framework_1_1Services_1_1IAssetService =
     [ "Get", "dd/d5b/interfaceWhiteCore_1_1Framework_1_1Services_1_1IAssetService.html#ae74b3de7c97036d706464daec8daa688", null ],
     [ "GetCached", "dd/d5b/interfaceWhiteCore_1_1Framework_1_1Services_1_1IAssetService.html#a2075e75a7db2a805f0f4224674daee4e", null ],
     [ "GetData", "dd/d5b/interfaceWhiteCore_1_1Framework_1_1Services_1_1IAssetService.html#acec620216c85bef7dc0befc50f2e7b38", null ],
+    [ "GetData", "dd/d5b/interfaceWhiteCore_1_1Framework_1_1Services_1_1IAssetService.html#afd674ef35f6d0d37e5075cb183ddd2d5", null ],
     [ "GetExists", "dd/d5b/interfaceWhiteCore_1_1Framework_1_1Services_1_1IAssetService.html#afe69514e272c6aa2748be5e1abdc39a8", null ],
     [ "GetMesh", "dd/d5b/interfaceWhiteCore_1_1Framework_1_1Services_1_1IAssetService.html#af6a545775a63dd9c5f018d1a2a82227c", null ],
     [ "Start", "dd/d5b/interfaceWhiteCore_1_1Framework_1_1Services_1_1IAssetService.html#a9820d92cf18945c7c745d2b532728fd8", null ],

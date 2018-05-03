@@ -1,6 +1,7 @@
 var classWhiteCore_1_1Services_1_1GridInfoHandlers =
 [
     [ "GridInfoHandlers", "d6/da9/classWhiteCore_1_1Services_1_1GridInfoHandlers.html#a316c0ee3a92d7445903bcf9e962ddff6", null ],
+    [ "GetGridInfoHashtable", "d6/da9/classWhiteCore_1_1Services_1_1GridInfoHandlers.html#a51218d92b726eb4c76695c478ef4bcee", null ],
     [ "RestGetGridInfoMethod", "d6/da9/classWhiteCore_1_1Services_1_1GridInfoHandlers.html#a880a0dd05c90b3854c15aa2b8cc23091", null ],
     [ "UpdateGridInfo", "d6/da9/classWhiteCore_1_1Services_1_1GridInfoHandlers.html#ad10015102f0f65acb4db504544c39b23", null ],
     [ "XmlRpcGridInfoMethod", "d6/da9/classWhiteCore_1_1Services_1_1GridInfoHandlers.html#a2d6c0b4f44582bfbf877f24bad6e9a58", null ],

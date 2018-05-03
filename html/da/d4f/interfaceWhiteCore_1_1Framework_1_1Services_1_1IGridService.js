@@ -14,7 +14,7 @@ var interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService =
     [ "GetRegionFlags", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#aca03115aea57ac8e17e2f0e230edf69b", null ],
     [ "GetRegionRange", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a212942555dae10122c153826ed42f2e5", null ],
     [ "GetRegionRange", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a5e5331e002507c0a1e937a4ac5d9086f", null ],
-    [ "GetRegionsByName", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a86199ba9069f4aa8850882eab93f69ee", null ],
+    [ "GetRegionsByName", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a77c0926475041b7d7b821b855c576a9a", null ],
     [ "GetRegionsByNameCount", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#a5d51a5549340177932518d5b540b779c", null ],
     [ "GetRegionViewSize", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#ab9d348667b7afd5c064252035d396d69", null ],
     [ "GetSafeRegions", "da/d4f/interfaceWhiteCore_1_1Framework_1_1Services_1_1IGridService.html#ab967c1641049faab37695677ead52116", null ],

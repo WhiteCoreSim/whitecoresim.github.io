@@ -15,6 +15,7 @@ var classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserP
     [ "Created", "de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#ada810c5bc4116ca7fcf667d63902ec2d", null ],
     [ "CustomType", "de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#a04a23c1d4502cf273b535cfc7f03c0d1", null ],
     [ "DisplayName", "de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#ac17a0336ed85c5abe97c7ed1589cc6cb", null ],
+    [ "DisplayNameUpdated", "de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#a11f238e982d0d2c9984af2c68f3f9bd2", null ],
     [ "FirstLifeAboutText", "de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#a897e224f44e6c33253740d5347be0f7c", null ],
     [ "FirstLifeImage", "de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#aee4bff62999fd486819cab986d7b4585", null ],
     [ "Image", "de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#aaccc2943072bdd897c4e2b8886e9b24d", null ],

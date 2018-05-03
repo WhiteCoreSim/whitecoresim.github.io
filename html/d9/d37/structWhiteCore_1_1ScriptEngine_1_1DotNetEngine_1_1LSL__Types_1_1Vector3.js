@@ -6,7 +6,7 @@ var structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3 =
     [ "Vector3", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html#a1d64edcf7bd2fc1e5b0b2a758c642e47", null ],
     [ "Cross", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html#a4dc7ee986c87c92f409c06fb7f68026a", null ],
     [ "Dot", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html#ac4804bfe337aea94ed506c20bbdfa3da", null ],
-    [ "Equals", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html#ac0933df3b355462560b1b4ba4eb5e812", null ],
+    [ "Equals", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html#a515b323b40c018d922899b34c8239c48", null ],
     [ "GetHashCode", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html#abf0fcde042de96173f4752bf64bded24", null ],
     [ "Mag", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html#ac0da3a0115601dcefb806dec077ff8a3", null ],
     [ "Norm", "d9/d37/structWhiteCore_1_1ScriptEngine_1_1DotNetEngine_1_1LSL__Types_1_1Vector3.html#a95479f679f165fa69ca176c6f4acb515", null ],

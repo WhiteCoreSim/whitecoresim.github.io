@@ -1,8 +1,10 @@
 var classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs =
 [
+    [ "AnyAVSounds", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a9b151f5622096673172bf94b201d7bb1", null ],
     [ "AuthBuyerID", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a3859a3bd33786a8aca3888ba0deba56e", null ],
     [ "Category", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a84d88f336ccb35e223029bf24c4c8783", null ],
     [ "Desc", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a9060ea4197fd1c26ec308a3f74740b85", null ],
+    [ "GroupAVSounds", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a042d5424be3a39aecb36150fa5ed796b", null ],
     [ "GroupID", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a68b86cee0824382137bba2c75e703ad4", null ],
     [ "LandingType", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a97bf7f6c9caeecd5a6f30df5815dd3b6", null ],
     [ "MediaAutoScale", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ae3eb3c65b57c7bf77a335f6b343f46b8", null ],
@@ -22,6 +24,7 @@ var classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs =
     [ "PassPrice", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#af9db0b9c015c39049cb4dd9e436e2623", null ],
     [ "Privacy", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ab5f795f62fd918ddf1e16027a6fede9c", null ],
     [ "SalePrice", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ac727a4d685b16f74a4a2a4f33d8991ee", null ],
+    [ "SeeAVs", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#aa5facae0c74a68a270259993d2c1330b", null ],
     [ "SnapshotID", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#a052befe012bcb6efb2f7fb7aba01bb58", null ],
     [ "UserLocation", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#aacf05bd143e6b52c9ba164d7af3ef8fd", null ],
     [ "UserLookAt", "d9/de2/classWhiteCore_1_1Framework_1_1ClientInterfaces_1_1LandUpdateArgs.html#ad777375ac2aa7c6701e07dd74dd62214", null ]

@@ -18,7 +18,7 @@ var classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule =
     [ "IncomingRetrieveRootAgent", "d9/d33/classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#af89b6321b1780667f523af4b58274b68", null ],
     [ "Initialise", "d9/d33/classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a0634e0c817b1578a04e18d3b2ed3b287", null ],
     [ "InternalCross", "d9/d33/classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a2fe9eadd0ad44c8b35af6c94cdd648cc", null ],
-    [ "KillEntities", "d9/d33/classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a9ce8ec931b6a630358aec8710f0ec538", null ],
+    [ "KillEntities", "d9/d33/classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a4502c064aeeadc20ac364eaeff53c8b4", null ],
     [ "KillEntity", "d9/d33/classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a183ffbcf7135de44397ef5161de2861e", null ],
     [ "MakeChildAgent", "d9/d33/classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a494c2d52e6f31afb4a321840a5bb6d12", null ],
     [ "NewUserConnection", "d9/d33/classWhiteCore_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a03d6465401d4acc8a0d07b9835991dc4", null ],

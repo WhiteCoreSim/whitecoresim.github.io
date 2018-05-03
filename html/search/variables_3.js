@@ -9,5 +9,6 @@ var searchData=
   ['description',['Description',['../d1/dca/classWhiteCore_1_1Framework_1_1Modules_1_1AuctionInfo.html#a10f74aa22be7074b432ecbb1cd385c03',1,'WhiteCore::Framework::Modules::AuctionInfo']]],
   ['dhivehi',['Dhivehi',['../d3/d53/classWhiteCore_1_1GoogleAPIs_1_1Language.html#adbf3f642d909c4caa4e27c7c5d647daa',1,'WhiteCore::GoogleAPIs::Language']]],
   ['displayname',['DisplayName',['../de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#ac17a0336ed85c5abe97c7ed1589cc6cb',1,'WhiteCore::Framework::Services::ClassHelpers::Profile::IUserProfileInfo']]],
+  ['displaynameupdated',['DisplayNameUpdated',['../de/d47/classWhiteCore_1_1Framework_1_1Services_1_1ClassHelpers_1_1Profile_1_1IUserProfileInfo.html#a11f238e982d0d2c9984af2c68f3f9bd2',1,'WhiteCore::Framework::Services::ClassHelpers::Profile::IUserProfileInfo']]],
   ['dutch',['Dutch',['../d3/d53/classWhiteCore_1_1GoogleAPIs_1_1Language.html#a75b427c878279d5a40a9ee884932d14a',1,'WhiteCore::GoogleAPIs::Language']]]
 ];

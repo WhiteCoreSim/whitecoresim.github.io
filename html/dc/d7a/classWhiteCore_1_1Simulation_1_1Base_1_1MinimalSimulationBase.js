@@ -30,6 +30,8 @@ var classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase =
     [ "m_dataPlugins", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#ab422282f357c181bbf1c6b31dbdde240", null ],
     [ "m_defaultDataPath", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#ae34bac496f0ee9f9914b4149b622d9dd", null ],
     [ "m_eventManager", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a719d1d3527d7e71a37c157ed0c59a69a", null ],
+    [ "m_mapcenter_x", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#acadc87d4c834d955f3442cac021f52b7", null ],
+    [ "m_mapcenter_y", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a58fe022628622116fa7d0b42bfa34d6e", null ],
     [ "m_original_config", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a594db0f5ecebcd527d995037a550605c", null ],
     [ "m_pidFile", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a9be478e48678e3817e6dd9ffa631409c", null ],
     [ "m_Port", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a2305ad791b0a234c1391479ee9da994e", null ],
@@ -50,6 +52,8 @@ var classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase =
     [ "EventManager", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a88e6dcfdedf39e880257335c01d0025d", null ],
     [ "HttpServer", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#ad7bc6fe2e7064d2ef408ee63cc7f8943", null ],
     [ "IsGridServer", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a57263fbe3125932d9edab386f370389d", null ],
+    [ "MapCenterX", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a6bcb065dda0af9b42824f9592c929075", null ],
+    [ "MapCenterY", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#afc45818faef5e18b04ae877eebcdd8fd", null ],
     [ "StartupTime", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#aed667eac5667750e1f16729896337257", null ],
     [ "Version", "dc/d7a/classWhiteCore_1_1Simulation_1_1Base_1_1MinimalSimulationBase.html#a10006ba97300ac5ba83a9ad9a168d1cc", null ]
 ];

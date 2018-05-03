@@ -42,6 +42,7 @@ var classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPhysicsScene =
     [ "_characters", "d5/d41/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPhysicsScene.html#ad41a63f7dec562926acaf91381d81f63", null ],
     [ "_collisionEventDictionary", "d5/d41/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPhysicsScene.html#ab8c7f37927cb6f5900662c3bf6c8f86d", null ],
     [ "_collisionEventListLock", "d5/d41/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPhysicsScene.html#a16bc934ef1fc1f7710c876cd2a3d104d", null ],
+    [ "_contactcountLock", "d5/d41/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPhysicsScene.html#ad756a6264f84d6dcb26705f3e79b223f", null ],
     [ "_perloopContact", "d5/d41/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPhysicsScene.html#a3b4a1b9949120a006184017494d469fc", null ],
     [ "_prims", "d5/d41/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPhysicsScene.html#aeffa50d6c64a2716f1d467e18846fe8c", null ],
     [ "actor_name_map", "d5/d41/classWhiteCore_1_1Physics_1_1OpenDynamicsEngine_1_1ODEPhysicsScene.html#ac6d34c8c819eaf7a126f57d6a76bc0fc", null ],

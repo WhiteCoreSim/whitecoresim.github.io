@@ -15,7 +15,7 @@ var classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh =
     [ "AddPos", "d3/dde/classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh.html#aef3d455b1ec1f8586742ea06e4adc3ea", null ],
     [ "AddRot", "d3/dde/classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh.html#a634beda88428b8ec07b77f5b5d7f7c6c", null ],
     [ "Copy", "d3/dde/classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh.html#acd48443125a52e5d047feba73b1e15cc", null ],
-    [ "DumpRaw", "d3/dde/classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh.html#a777f96bcd6337d54c08a4870a5a6af76", null ],
+    [ "DumpRaw", "d3/dde/classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh.html#a2d4eff0528e23215b9658405408e507d", null ],
     [ "Scale", "d3/dde/classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh.html#a975aa3439ff9bcf438f17a0e9bad1c1e", null ],
     [ "SculptMeshFromFile", "d3/dde/classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh.html#a49642ba8e1eb422fad1dce664fd8ec28", null ],
     [ "coords", "d3/dde/classWhiteCore_1_1Physics_1_1PrimMesher_1_1SculptMesh.html#a8ed03c9d462526b3358ccaa15ed84ae6", null ],

@@ -5,7 +5,7 @@ var classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency =
     [ "UserCurrency", "d2/de9/classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency.html#a0fb22e43911cc8f81d0cac6c5e011e3d", null ],
     [ "UserCurrency", "d2/de9/classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency.html#aa3e491687c8648e66443be0c7f9d03a9", null ],
     [ "FromArray", "d2/de9/classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency.html#a7aa0ce3e1dda192e5d630b332492b128", null ],
-    [ "FromOSD", "d2/de9/classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency.html#a875daf9024d164e428f349a83dda2d1b", null ],
+    [ "FromOSD", "d2/de9/classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency.html#a2bfe6bc047010ca16db8434502138bc2", null ],
     [ "ToOSD", "d2/de9/classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency.html#a7503ca0f969b3651fe062b92f2aaa26c", null ],
     [ "Amount", "d2/de9/classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency.html#a20068c09245b9158a863365d9b2fb1a8", null ],
     [ "IsGroup", "d2/de9/classWhiteCore_1_1Modules_1_1Currency_1_1UserCurrency.html#a7b8e090fdb74c7cb9c1627547eca210d", null ],

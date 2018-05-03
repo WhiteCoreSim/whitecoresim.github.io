@@ -8,6 +8,7 @@ var classWhiteCore_1_1Services_1_1SQLServices_1_1AssetService_1_1AssetService =
     [ "Get", "d2/da5/classWhiteCore_1_1Services_1_1SQLServices_1_1AssetService_1_1AssetService.html#a1e11450a97c46f65fa86d9fc04057eb5", null ],
     [ "GetCached", "d2/da5/classWhiteCore_1_1Services_1_1SQLServices_1_1AssetService_1_1AssetService.html#ab82ae20139622149318144d18f1d049e", null ],
     [ "GetData", "d2/da5/classWhiteCore_1_1Services_1_1SQLServices_1_1AssetService_1_1AssetService.html#a790333f2f832a37afdc28bf5a3cfd4d7", null ],
+    [ "GetData", "d2/da5/classWhiteCore_1_1Services_1_1SQLServices_1_1AssetService_1_1AssetService.html#a2b20620255d81a4db69d05f016ea4d68", null ],
     [ "GetExists", "d2/da5/classWhiteCore_1_1Services_1_1SQLServices_1_1AssetService_1_1AssetService.html#a127ca1c5c5983c69442a6ca7803132c3", null ],
     [ "GetMesh", "d2/da5/classWhiteCore_1_1Services_1_1SQLServices_1_1AssetService_1_1AssetService.html#a93f2f4c19cb2b6a03dc4f6477154d941", null ],
     [ "Initialize", "d2/da5/classWhiteCore_1_1Services_1_1SQLServices_1_1AssetService_1_1AssetService.html#a255a38a6f5a8c8f19c6e11e758363e75", null ],
